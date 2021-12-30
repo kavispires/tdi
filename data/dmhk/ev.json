@@ -1,602 +1,182 @@
 {
   "dmhk-ev-001": {
     "id": "dmhk-ev-001",
-    "pt": "?",
-    "en": "?",
+    "pt": "pincel",
+    "en": "paintbrush",
     "type": "evidence"
   },
   "dmhk-ev-002": {
     "id": "dmhk-ev-002",
-    "pt": "?",
-    "en": "?",
+    "pt": "teclado",
+    "en": "keyboard",
     "type": "evidence"
   },
   "dmhk-ev-003": {
     "id": "dmhk-ev-003",
-    "pt": "?",
-    "en": "?",
+    "pt": "mapa",
+    "en": "map",
     "type": "evidence"
   },
   "dmhk-ev-004": {
     "id": "dmhk-ev-004",
-    "pt": "?",
-    "en": "?",
+    "pt": "revista em quadrinhos",
+    "en": "comics",
     "type": "evidence"
   },
   "dmhk-ev-005": {
     "id": "dmhk-ev-005",
-    "pt": "?",
-    "en": "?",
+    "pt": "plástico",
+    "en": "plastic",
     "type": "evidence"
   },
   "dmhk-ev-006": {
     "id": "dmhk-ev-006",
-    "pt": "?",
-    "en": "?",
+    "pt": "cano",
+    "en": "pipe",
     "type": "evidence"
   },
   "dmhk-ev-007": {
     "id": "dmhk-ev-007",
-    "pt": "?",
-    "en": "?",
+    "pt": "frigideira",
+    "en": "pan",
     "type": "evidence"
   },
   "dmhk-ev-008": {
     "id": "dmhk-ev-008",
-    "pt": "?",
-    "en": "?",
+    "pt": "porta retrato",
+    "en": "photo frame",
     "type": "evidence"
   },
   "dmhk-ev-009": {
     "id": "dmhk-ev-009",
-    "pt": "?",
-    "en": "?",
+    "pt": "notebook",
+    "en": "laptop",
     "type": "evidence"
   },
   "dmhk-ev-010": {
     "id": "dmhk-ev-010",
-    "pt": "?",
-    "en": "?",
+    "pt": "mata-mosca",
+    "en": "fly swatter",
     "type": "evidence"
   },
   "dmhk-ev-011": {
     "id": "dmhk-ev-011",
-    "pt": "?",
-    "en": "?",
+    "pt": "mouse",
+    "en": "computer mouse",
     "type": "evidence"
   },
   "dmhk-ev-012": {
     "id": "dmhk-ev-012",
-    "pt": "?",
-    "en": "?",
+    "pt": "cardápio",
+    "en": "menu",
     "type": "evidence"
   },
   "dmhk-ev-013": {
     "id": "dmhk-ev-013",
-    "pt": "?",
-    "en": "?",
+    "pt": "pano de chão",
+    "en": "cleaning cloth",
     "type": "evidence"
   },
   "dmhk-ev-014": {
     "id": "dmhk-ev-014",
-    "pt": "?",
-    "en": "?",
+    "pt": "diamante",
+    "en": "diamond",
     "type": "evidence"
   },
   "dmhk-ev-015": {
     "id": "dmhk-ev-015",
-    "pt": "?",
-    "en": "?",
+    "pt": "lente de contato",
+    "en": "lens",
     "type": "evidence"
   },
   "dmhk-ev-016": {
     "id": "dmhk-ev-016",
-    "pt": "?",
-    "en": "?",
+    "pt": "calça jeans",
+    "en": "blue jeans",
     "type": "evidence"
   },
   "dmhk-ev-017": {
     "id": "dmhk-ev-017",
-    "pt": "?",
-    "en": "?",
+    "pt": "envelope",
+    "en": "envelope",
     "type": "evidence"
   },
   "dmhk-ev-018": {
     "id": "dmhk-ev-018",
-    "pt": "?",
-    "en": "?",
+    "pt": "caixa de som",
+    "en": "speaker",
     "type": "evidence"
   },
   "dmhk-ev-019": {
     "id": "dmhk-ev-019",
-    "pt": "?",
-    "en": "?",
+    "pt": "fósforo",
+    "en": "match",
     "type": "evidence"
   },
   "dmhk-ev-020": {
     "id": "dmhk-ev-020",
-    "pt": "?",
-    "en": "?",
+    "pt": "banana",
+    "en": "banana",
     "type": "evidence"
   },
   "dmhk-ev-021": {
     "id": "dmhk-ev-021",
-    "pt": "?",
-    "en": "?",
+    "pt": "esponja",
+    "en": "sponge",
     "type": "evidence"
   },
   "dmhk-ev-022": {
     "id": "dmhk-ev-022",
-    "pt": "?",
-    "en": "?",
+    "pt": "controle remoto",
+    "en": "remote control",
     "type": "evidence"
   },
   "dmhk-ev-023": {
     "id": "dmhk-ev-023",
-    "pt": "?",
-    "en": "?",
+    "pt": "palito de dente",
+    "en": "toothpicks",
     "type": "evidence"
   },
   "dmhk-ev-024": {
     "id": "dmhk-ev-024",
-    "pt": "?",
-    "en": "?",
+    "pt": "camarão",
+    "en": "shrimp",
     "type": "evidence"
   },
   "dmhk-ev-025": {
     "id": "dmhk-ev-025",
-    "pt": "?",
-    "en": "?",
+    "pt": "baralho",
+    "en": "deck of cards",
     "type": "evidence"
   },
   "dmhk-ev-026": {
     "id": "dmhk-ev-026",
-    "pt": "?",
-    "en": "?",
+    "pt": "revista",
+    "en": "magazine",
     "type": "evidence"
   },
   "dmhk-ev-027": {
     "id": "dmhk-ev-027",
-    "pt": "?",
-    "en": "?",
+    "pt": "osso",
+    "en": "bone",
     "type": "evidence"
   },
   "dmhk-ev-028": {
     "id": "dmhk-ev-028",
-    "pt": "?",
-    "en": "?",
+    "pt": "chapéu de mickey",
+    "en": "mouse ear hat",
     "type": "evidence"
   },
   "dmhk-ev-029": {
     "id": "dmhk-ev-029",
-    "pt": "?",
-    "en": "?",
+    "pt": "barata",
+    "en": "cockroach",
     "type": "evidence"
   },
   "dmhk-ev-030": {
     "id": "dmhk-ev-030",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-031": {
-    "id": "dmhk-ev-031",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-032": {
-    "id": "dmhk-ev-032",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-033": {
-    "id": "dmhk-ev-033",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-034": {
-    "id": "dmhk-ev-034",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-035": {
-    "id": "dmhk-ev-035",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-036": {
-    "id": "dmhk-ev-036",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-037": {
-    "id": "dmhk-ev-037",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-038": {
-    "id": "dmhk-ev-038",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-039": {
-    "id": "dmhk-ev-039",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-040": {
-    "id": "dmhk-ev-040",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-041": {
-    "id": "dmhk-ev-041",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-042": {
-    "id": "dmhk-ev-042",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-043": {
-    "id": "dmhk-ev-043",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-044": {
-    "id": "dmhk-ev-044",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-045": {
-    "id": "dmhk-ev-045",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-046": {
-    "id": "dmhk-ev-046",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-047": {
-    "id": "dmhk-ev-047",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-048": {
-    "id": "dmhk-ev-048",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-049": {
-    "id": "dmhk-ev-049",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-050": {
-    "id": "dmhk-ev-050",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-051": {
-    "id": "dmhk-ev-051",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-052": {
-    "id": "dmhk-ev-052",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-053": {
-    "id": "dmhk-ev-053",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-054": {
-    "id": "dmhk-ev-054",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-055": {
-    "id": "dmhk-ev-055",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-056": {
-    "id": "dmhk-ev-056",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-057": {
-    "id": "dmhk-ev-057",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-058": {
-    "id": "dmhk-ev-058",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-059": {
-    "id": "dmhk-ev-059",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-060": {
-    "id": "dmhk-ev-060",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-061": {
-    "id": "dmhk-ev-061",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-062": {
-    "id": "dmhk-ev-062",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-063": {
-    "id": "dmhk-ev-063",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-064": {
-    "id": "dmhk-ev-064",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-065": {
-    "id": "dmhk-ev-065",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-066": {
-    "id": "dmhk-ev-066",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-067": {
-    "id": "dmhk-ev-067",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-068": {
-    "id": "dmhk-ev-068",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-069": {
-    "id": "dmhk-ev-069",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-070": {
-    "id": "dmhk-ev-070",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-071": {
-    "id": "dmhk-ev-071",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-072": {
-    "id": "dmhk-ev-072",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-073": {
-    "id": "dmhk-ev-073",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-074": {
-    "id": "dmhk-ev-074",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-075": {
-    "id": "dmhk-ev-075",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-076": {
-    "id": "dmhk-ev-076",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-077": {
-    "id": "dmhk-ev-077",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-078": {
-    "id": "dmhk-ev-078",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-079": {
-    "id": "dmhk-ev-079",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-080": {
-    "id": "dmhk-ev-080",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-081": {
-    "id": "dmhk-ev-081",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-082": {
-    "id": "dmhk-ev-082",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-083": {
-    "id": "dmhk-ev-083",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-084": {
-    "id": "dmhk-ev-084",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-085": {
-    "id": "dmhk-ev-085",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-086": {
-    "id": "dmhk-ev-086",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-087": {
-    "id": "dmhk-ev-087",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-088": {
-    "id": "dmhk-ev-088",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-089": {
-    "id": "dmhk-ev-089",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-090": {
-    "id": "dmhk-ev-090",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-091": {
-    "id": "dmhk-ev-091",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-092": {
-    "id": "dmhk-ev-092",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-093": {
-    "id": "dmhk-ev-093",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-094": {
-    "id": "dmhk-ev-094",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-095": {
-    "id": "dmhk-ev-095",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-096": {
-    "id": "dmhk-ev-096",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-097": {
-    "id": "dmhk-ev-097",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-098": {
-    "id": "dmhk-ev-098",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-099": {
-    "id": "dmhk-ev-099",
-    "pt": "?",
-    "en": "?",
-    "type": "evidence"
-  },
-  "dmhk-ev-100": {
-    "id": "dmhk-ev-100",
-    "pt": "?",
-    "en": "?",
+    "pt": "sutiã",
+    "en": "bra",
     "type": "evidence"
   }
 }

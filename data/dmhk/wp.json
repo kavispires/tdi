@@ -1,602 +1,242 @@
 {
   "dmhk-wp-001": {
     "id": "dmhk-wp-001",
-    "pt": "?",
-    "en": "?",
+    "pt": "abelhas",
+    "en": "bees",
     "type": "weapon"
   },
   "dmhk-wp-002": {
     "id": "dmhk-wp-002",
-    "pt": "?",
-    "en": "?",
+    "pt": "tequila",
+    "en": "tequila",
     "type": "weapon"
   },
   "dmhk-wp-003": {
     "id": "dmhk-wp-003",
-    "pt": "?",
-    "en": "?",
+    "pt": "amendoim",
+    "en": "peanut",
     "type": "weapon"
   },
   "dmhk-wp-004": {
     "id": "dmhk-wp-004",
-    "pt": "?",
-    "en": "?",
+    "pt": "rifle",
+    "en": "assault rifle",
     "type": "weapon"
   },
   "dmhk-wp-005": {
     "id": "dmhk-wp-005",
-    "pt": "?",
-    "en": "?",
+    "pt": "osso de galinha",
+    "en": "chicken bone",
     "type": "weapon"
   },
   "dmhk-wp-006": {
     "id": "dmhk-wp-006",
-    "pt": "?",
-    "en": "?",
+    "pt": "estrela ninja",
+    "en": "throwing star",
     "type": "weapon"
   },
   "dmhk-wp-007": {
     "id": "dmhk-wp-007",
-    "pt": "?",
-    "en": "?",
+    "pt": "ratazana de esgoto",
+    "en": "sewer rat",
     "type": "weapon"
   },
   "dmhk-wp-008": {
     "id": "dmhk-wp-008",
-    "pt": "?",
-    "en": "?",
+    "pt": "viúva negra",
+    "en": "black widow",
     "type": "weapon"
   },
   "dmhk-wp-009": {
     "id": "dmhk-wp-009",
-    "pt": "?",
-    "en": "?",
+    "pt": "serrote",
+    "en": "saw",
     "type": "weapon"
   },
   "dmhk-wp-010": {
     "id": "dmhk-wp-010",
-    "pt": "?",
-    "en": "?",
+    "pt": "água fervente",
+    "en": "boiling water",
     "type": "weapon"
   },
   "dmhk-wp-011": {
     "id": "dmhk-wp-011",
-    "pt": "?",
-    "en": "?",
+    "pt": "droga em pó",
+    "en": "powder drug",
     "type": "weapon"
   },
   "dmhk-wp-012": {
     "id": "dmhk-wp-012",
-    "pt": "?",
-    "en": "?",
+    "pt": "saxofone",
+    "en": "saxophone",
     "type": "weapon"
   },
   "dmhk-wp-013": {
     "id": "dmhk-wp-013",
-    "pt": "?",
-    "en": "?",
+    "pt": "desidratação",
+    "en": "dehydration",
     "type": "weapon"
   },
   "dmhk-wp-014": {
     "id": "dmhk-wp-014",
-    "pt": "?",
-    "en": "?",
+    "pt": "explosivos",
+    "en": "explosives",
     "type": "weapon"
   },
   "dmhk-wp-015": {
     "id": "dmhk-wp-015",
-    "pt": "?",
-    "en": "?",
+    "pt": "espingarda",
+    "en": "shotgun",
     "type": "weapon"
   },
   "dmhk-wp-016": {
     "id": "dmhk-wp-016",
-    "pt": "?",
-    "en": "?",
+    "pt": "isqueiro",
+    "en": "lighter",
     "type": "weapon"
   },
   "dmhk-wp-017": {
     "id": "dmhk-wp-017",
-    "pt": "?",
-    "en": "?",
+    "pt": "fone de ouvido",
+    "en": "headphones",
     "type": "weapon"
   },
   "dmhk-wp-018": {
     "id": "dmhk-wp-018",
-    "pt": "?",
-    "en": "?",
+    "pt": "martelo",
+    "en": "hammer",
     "type": "weapon"
   },
   "dmhk-wp-019": {
     "id": "dmhk-wp-019",
-    "pt": "?",
-    "en": "?",
+    "pt": "placa de à venda",
+    "en": "for sale sign",
     "type": "weapon"
   },
   "dmhk-wp-020": {
     "id": "dmhk-wp-020",
-    "pt": "?",
-    "en": "?",
+    "pt": "lança",
+    "en": "spear",
     "type": "weapon"
   },
   "dmhk-wp-021": {
     "id": "dmhk-wp-021",
-    "pt": "?",
-    "en": "?",
+    "pt": "corda",
+    "en": "rope",
     "type": "weapon"
   },
   "dmhk-wp-022": {
     "id": "dmhk-wp-022",
-    "pt": "?",
-    "en": "?",
+    "pt": "empurro",
+    "en": "push",
     "type": "weapon"
   },
   "dmhk-wp-023": {
     "id": "dmhk-wp-023",
-    "pt": "?",
-    "en": "?",
+    "pt": "vírus",
+    "en": "virus",
     "type": "weapon"
   },
   "dmhk-wp-024": {
     "id": "dmhk-wp-024",
-    "pt": "?",
-    "en": "?",
+    "pt": "machado",
+    "en": "axe",
     "type": "weapon"
   },
   "dmhk-wp-025": {
     "id": "dmhk-wp-025",
-    "pt": "?",
-    "en": "?",
+    "pt": "corrente elétrica",
+    "en": "electric current",
     "type": "weapon"
   },
   "dmhk-wp-026": {
     "id": "dmhk-wp-026",
-    "pt": "?",
-    "en": "?",
+    "pt": "patins de gelo",
+    "en": "ice skates",
     "type": "weapon"
   },
   "dmhk-wp-027": {
     "id": "dmhk-wp-027",
-    "pt": "?",
-    "en": "?",
+    "pt": "vinho",
+    "en": "wine",
     "type": "weapon"
   },
   "dmhk-wp-028": {
     "id": "dmhk-wp-028",
-    "pt": "?",
-    "en": "?",
+    "pt": "agulha envenenada",
+    "en": "poisonous needle",
     "type": "weapon"
   },
   "dmhk-wp-029": {
     "id": "dmhk-wp-029",
-    "pt": "?",
-    "en": "?",
+    "pt": "injeção",
+    "en": "injection",
     "type": "weapon"
   },
   "dmhk-wp-030": {
     "id": "dmhk-wp-030",
-    "pt": "?",
-    "en": "?",
+    "pt": "incêndio culposo",
+    "en": "arson",
     "type": "weapon"
   },
   "dmhk-wp-031": {
     "id": "dmhk-wp-031",
-    "pt": "?",
-    "en": "?",
+    "pt": "tijolo",
+    "en": "brick",
     "type": "weapon"
   },
   "dmhk-wp-032": {
     "id": "dmhk-wp-032",
-    "pt": "?",
-    "en": "?",
+    "pt": "radiação",
+    "en": "radiation",
     "type": "weapon"
   },
   "dmhk-wp-033": {
     "id": "dmhk-wp-033",
-    "pt": "?",
-    "en": "?",
+    "pt": "fome",
+    "en": "starvation",
     "type": "weapon"
   },
   "dmhk-wp-034": {
     "id": "dmhk-wp-034",
-    "pt": "?",
-    "en": "?",
+    "pt": "overdose",
+    "en": "overdose",
     "type": "weapon"
   },
   "dmhk-wp-035": {
     "id": "dmhk-wp-035",
-    "pt": "?",
-    "en": "?",
+    "pt": "sapato de cimento",
+    "en": "cement shoes",
     "type": "weapon"
   },
   "dmhk-wp-036": {
     "id": "dmhk-wp-036",
-    "pt": "?",
-    "en": "?",
+    "pt": "castiçal",
+    "en": "candlestick",
     "type": "weapon"
   },
   "dmhk-wp-037": {
     "id": "dmhk-wp-037",
-    "pt": "?",
-    "en": "?",
+    "pt": "comprimido",
+    "en": "pill",
     "type": "weapon"
   },
   "dmhk-wp-038": {
     "id": "dmhk-wp-038",
-    "pt": "?",
-    "en": "?",
+    "pt": "chicote",
+    "en": "whip",
     "type": "weapon"
   },
   "dmhk-wp-039": {
     "id": "dmhk-wp-039",
-    "pt": "?",
-    "en": "?",
+    "pt": "pesticida",
+    "en": "pesticide",
     "type": "weapon"
   },
   "dmhk-wp-040": {
     "id": "dmhk-wp-040",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-041": {
-    "id": "dmhk-wp-041",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-042": {
-    "id": "dmhk-wp-042",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-043": {
-    "id": "dmhk-wp-043",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-044": {
-    "id": "dmhk-wp-044",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-045": {
-    "id": "dmhk-wp-045",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-046": {
-    "id": "dmhk-wp-046",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-047": {
-    "id": "dmhk-wp-047",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-048": {
-    "id": "dmhk-wp-048",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-049": {
-    "id": "dmhk-wp-049",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-050": {
-    "id": "dmhk-wp-050",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-051": {
-    "id": "dmhk-wp-051",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-052": {
-    "id": "dmhk-wp-052",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-053": {
-    "id": "dmhk-wp-053",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-054": {
-    "id": "dmhk-wp-054",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-055": {
-    "id": "dmhk-wp-055",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-056": {
-    "id": "dmhk-wp-056",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-057": {
-    "id": "dmhk-wp-057",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-058": {
-    "id": "dmhk-wp-058",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-059": {
-    "id": "dmhk-wp-059",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-060": {
-    "id": "dmhk-wp-060",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-061": {
-    "id": "dmhk-wp-061",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-062": {
-    "id": "dmhk-wp-062",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-063": {
-    "id": "dmhk-wp-063",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-064": {
-    "id": "dmhk-wp-064",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-065": {
-    "id": "dmhk-wp-065",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-066": {
-    "id": "dmhk-wp-066",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-067": {
-    "id": "dmhk-wp-067",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-068": {
-    "id": "dmhk-wp-068",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-069": {
-    "id": "dmhk-wp-069",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-070": {
-    "id": "dmhk-wp-070",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-071": {
-    "id": "dmhk-wp-071",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-072": {
-    "id": "dmhk-wp-072",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-073": {
-    "id": "dmhk-wp-073",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-074": {
-    "id": "dmhk-wp-074",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-075": {
-    "id": "dmhk-wp-075",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-076": {
-    "id": "dmhk-wp-076",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-077": {
-    "id": "dmhk-wp-077",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-078": {
-    "id": "dmhk-wp-078",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-079": {
-    "id": "dmhk-wp-079",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-080": {
-    "id": "dmhk-wp-080",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-081": {
-    "id": "dmhk-wp-081",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-082": {
-    "id": "dmhk-wp-082",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-083": {
-    "id": "dmhk-wp-083",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-084": {
-    "id": "dmhk-wp-084",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-085": {
-    "id": "dmhk-wp-085",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-086": {
-    "id": "dmhk-wp-086",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-087": {
-    "id": "dmhk-wp-087",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-088": {
-    "id": "dmhk-wp-088",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-089": {
-    "id": "dmhk-wp-089",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-090": {
-    "id": "dmhk-wp-090",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-091": {
-    "id": "dmhk-wp-091",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-092": {
-    "id": "dmhk-wp-092",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-093": {
-    "id": "dmhk-wp-093",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-094": {
-    "id": "dmhk-wp-094",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-095": {
-    "id": "dmhk-wp-095",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-096": {
-    "id": "dmhk-wp-096",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-097": {
-    "id": "dmhk-wp-097",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-098": {
-    "id": "dmhk-wp-098",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-099": {
-    "id": "dmhk-wp-099",
-    "pt": "?",
-    "en": "?",
-    "type": "weapon"
-  },
-  "dmhk-wp-100": {
-    "id": "dmhk-wp-100",
-    "pt": "?",
-    "en": "?",
+    "pt": "caixa de fósforos",
+    "en": "match",
     "type": "weapon"
   }
 }
