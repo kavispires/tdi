@@ -1,182 +1,242 @@
 {
   "dmhk-ev-001": {
     "id": "dmhk-ev-001",
-    "pt": "pincel",
-    "en": "paintbrush",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "paintbrush",
+      "pt": "pincel"
+    }
   },
   "dmhk-ev-002": {
     "id": "dmhk-ev-002",
-    "pt": "teclado",
-    "en": "keyboard",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "keyboard",
+      "pt": "teclado"
+    }
   },
   "dmhk-ev-003": {
     "id": "dmhk-ev-003",
-    "pt": "mapa",
-    "en": "map",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "map",
+      "pt": "mapa"
+    }
   },
   "dmhk-ev-004": {
     "id": "dmhk-ev-004",
-    "pt": "revista em quadrinhos",
-    "en": "comics",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "comics",
+      "pt": "revista em quadrinhos"
+    }
   },
   "dmhk-ev-005": {
     "id": "dmhk-ev-005",
-    "pt": "plástico",
-    "en": "plastic",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "plastic",
+      "pt": "plástico"
+    }
   },
   "dmhk-ev-006": {
     "id": "dmhk-ev-006",
-    "pt": "cano",
-    "en": "pipe",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "pipe",
+      "pt": "cano"
+    }
   },
   "dmhk-ev-007": {
     "id": "dmhk-ev-007",
-    "pt": "frigideira",
-    "en": "pan",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "pan",
+      "pt": "frigideira"
+    }
   },
   "dmhk-ev-008": {
     "id": "dmhk-ev-008",
-    "pt": "porta retrato",
-    "en": "photo frame",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "photo frame",
+      "pt": "porta retrato"
+    }
   },
   "dmhk-ev-009": {
     "id": "dmhk-ev-009",
-    "pt": "notebook",
-    "en": "laptop",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "laptop",
+      "pt": "notebook"
+    }
   },
   "dmhk-ev-010": {
     "id": "dmhk-ev-010",
-    "pt": "mata-mosca",
-    "en": "fly swatter",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "fly swatter",
+      "pt": "mata-mosca"
+    }
   },
   "dmhk-ev-011": {
     "id": "dmhk-ev-011",
-    "pt": "mouse",
-    "en": "computer mouse",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "computer mouse",
+      "pt": "mouse"
+    }
   },
   "dmhk-ev-012": {
     "id": "dmhk-ev-012",
-    "pt": "cardápio",
-    "en": "menu",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "menu",
+      "pt": "cardápio"
+    }
   },
   "dmhk-ev-013": {
     "id": "dmhk-ev-013",
-    "pt": "pano de chão",
-    "en": "cleaning cloth",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "cleaning cloth",
+      "pt": "pano de chão"
+    }
   },
   "dmhk-ev-014": {
     "id": "dmhk-ev-014",
-    "pt": "diamante",
-    "en": "diamond",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "diamond",
+      "pt": "diamante"
+    }
   },
   "dmhk-ev-015": {
     "id": "dmhk-ev-015",
-    "pt": "lente de contato",
-    "en": "lens",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "lens",
+      "pt": "lente de contato"
+    }
   },
   "dmhk-ev-016": {
     "id": "dmhk-ev-016",
-    "pt": "calça jeans",
-    "en": "blue jeans",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "blue jeans",
+      "pt": "calça jeans"
+    }
   },
   "dmhk-ev-017": {
     "id": "dmhk-ev-017",
-    "pt": "envelope",
-    "en": "envelope",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "envelope",
+      "pt": "envelope"
+    }
   },
   "dmhk-ev-018": {
     "id": "dmhk-ev-018",
-    "pt": "caixa de som",
-    "en": "speaker",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "speaker",
+      "pt": "caixa de som"
+    }
   },
   "dmhk-ev-019": {
     "id": "dmhk-ev-019",
-    "pt": "fósforo",
-    "en": "match",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "match",
+      "pt": "fósforo"
+    }
   },
   "dmhk-ev-020": {
     "id": "dmhk-ev-020",
-    "pt": "banana",
-    "en": "banana",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "banana",
+      "pt": "banana"
+    }
   },
   "dmhk-ev-021": {
     "id": "dmhk-ev-021",
-    "pt": "esponja",
-    "en": "sponge",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "sponge",
+      "pt": "esponja"
+    }
   },
   "dmhk-ev-022": {
     "id": "dmhk-ev-022",
-    "pt": "controle remoto",
-    "en": "remote control",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "remote control",
+      "pt": "controle remoto"
+    }
   },
   "dmhk-ev-023": {
     "id": "dmhk-ev-023",
-    "pt": "palito de dente",
-    "en": "toothpicks",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "toothpicks",
+      "pt": "palito de dente"
+    }
   },
   "dmhk-ev-024": {
     "id": "dmhk-ev-024",
-    "pt": "camarão",
-    "en": "shrimp",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "shrimp",
+      "pt": "camarão"
+    }
   },
   "dmhk-ev-025": {
     "id": "dmhk-ev-025",
-    "pt": "baralho",
-    "en": "deck of cards",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "deck of cards",
+      "pt": "baralho"
+    }
   },
   "dmhk-ev-026": {
     "id": "dmhk-ev-026",
-    "pt": "revista",
-    "en": "magazine",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "magazine",
+      "pt": "revista"
+    }
   },
   "dmhk-ev-027": {
     "id": "dmhk-ev-027",
-    "pt": "osso",
-    "en": "bone",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "bone",
+      "pt": "osso"
+    }
   },
   "dmhk-ev-028": {
     "id": "dmhk-ev-028",
-    "pt": "chapéu de mickey",
-    "en": "mouse ear hat",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "mouse ear hat",
+      "pt": "chapéu de mickey"
+    }
   },
   "dmhk-ev-029": {
     "id": "dmhk-ev-029",
-    "pt": "barata",
-    "en": "cockroach",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "cockroach",
+      "pt": "barata"
+    }
   },
   "dmhk-ev-030": {
     "id": "dmhk-ev-030",
-    "pt": "sutiã",
-    "en": "bra",
-    "type": "evidence"
+    "type": "evidence",
+    "name": {
+      "en": "bra",
+      "pt": "sutiã"
+    }
   }
 }
