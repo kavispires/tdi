@@ -318,5 +318,725 @@
       "en": "match",
       "pt": "caixa de fósforos"
     }
+  },
+  "dmhk-wp-041": {
+    "id": "dmhk-wp-041",
+    "type": "weapon",
+    "name": {
+      "pt": "carrapato",
+      "en": "tick"
+    }
+  },
+  "dmhk-wp-042": {
+    "id": "dmhk-wp-042",
+    "type": "weapon",
+    "name": {
+      "pt": "carro",
+      "en": "car"
+    }
+  },
+  "dmhk-wp-043": {
+    "id": "dmhk-wp-043",
+    "type": "weapon",
+    "name": {
+      "pt": "soco",
+      "en": "punch"
+    }
+  },
+  "dmhk-wp-044": {
+    "id": "dmhk-wp-044",
+    "type": "weapon",
+    "name": {
+      "pt": "microfone",
+      "en": "microphone"
+    }
+  },
+  "dmhk-wp-045": {
+    "id": "dmhk-wp-045",
+    "type": "weapon",
+    "name": {
+      "pt": "lata de sopa",
+      "en": "soup can"
+    }
+  },
+  "dmhk-wp-046": {
+    "id": "dmhk-wp-046",
+    "type": "weapon",
+    "name": {
+      "pt": "liquidificador",
+      "en": "blender"
+    }
+  },
+  "dmhk-wp-047": {
+    "id": "dmhk-wp-047",
+    "type": "weapon",
+    "name": {
+      "pt": "pé de cabra",
+      "en": "crowbar"
+    }
+  },
+  "dmhk-wp-048": {
+    "id": "dmhk-wp-048",
+    "type": "weapon",
+    "name": {
+      "pt": "antraz",
+      "en": "anthrax"
+    }
+  },
+  "dmhk-wp-049": {
+    "id": "dmhk-wp-049",
+    "type": "weapon",
+    "name": {
+      "pt": "pisoteado",
+      "en": "trample"
+    }
+  },
+  "dmhk-wp-050": {
+    "id": "dmhk-wp-050",
+    "type": "weapon",
+    "name": {
+      "pt": "cacto",
+      "en": "cactus"
+    }
+  },
+  "dmhk-wp-051": {
+    "id": "dmhk-wp-051",
+    "type": "weapon",
+    "name": {
+      "pt": "troféu",
+      "en": "trophy"
+    }
+  },
+  "dmhk-wp-052": {
+    "id": "dmhk-wp-052",
+    "type": "weapon",
+    "name": {
+      "pt": "ônibus",
+      "en": "bus"
+    }
+  },
+  "dmhk-wp-053": {
+    "id": "dmhk-wp-053",
+    "type": "weapon",
+    "name": {
+      "pt": "cirurgia",
+      "en": "surgery"
+    }
+  },
+  "dmhk-wp-054": {
+    "id": "dmhk-wp-054",
+    "type": "weapon",
+    "name": {
+      "pt": "garfo e faca",
+      "en": "knife and fork"
+    }
+  },
+  "dmhk-wp-055": {
+    "id": "dmhk-wp-055",
+    "type": "weapon",
+    "name": {
+      "pt": "cão raivoso",
+      "en": "mad dog"
+    }
+  },
+  "dmhk-wp-056": {
+    "id": "dmhk-wp-056",
+    "type": "weapon",
+    "name": {
+      "pt": "prego enferrujado",
+      "en": "rusty nail"
+    }
+  },
+  "dmhk-wp-057": {
+    "id": "dmhk-wp-057",
+    "type": "weapon",
+    "name": {
+      "pt": "serra elétrica",
+      "en": "chainsaw"
+    }
+  },
+  "dmhk-wp-058": {
+    "id": "dmhk-wp-058",
+    "type": "weapon",
+    "name": {
+      "pt": "sacola plástica",
+      "en": "plastic bag"
+    }
+  },
+  "dmhk-wp-059": {
+    "id": "dmhk-wp-059",
+    "type": "weapon",
+    "name": {
+      "pt": "espada",
+      "en": "sword"
+    }
+  },
+  "dmhk-wp-060": {
+    "id": "dmhk-wp-060",
+    "type": "weapon",
+    "name": {
+      "pt": "adaga",
+      "en": "dagger"
+    }
+  },
+  "dmhk-wp-061": {
+    "id": "dmhk-wp-061",
+    "type": "weapon",
+    "name": {
+      "pt": "armadilha para urso",
+      "en": "bear trap"
+    }
+  },
+  "dmhk-wp-062": {
+    "id": "dmhk-wp-062",
+    "type": "weapon",
+    "name": {
+      "pt": "mão suja",
+      "en": "dirty hands"
+    }
+  },
+  "dmhk-wp-063": {
+    "id": "dmhk-wp-063",
+    "type": "weapon",
+    "name": {
+      "pt": "micro-ondas",
+      "en": "microwave oven"
+    }
+  },
+  "dmhk-wp-064": {
+    "id": "dmhk-wp-064",
+    "type": "weapon",
+    "name": {
+      "pt": "nanobots",
+      "en": "nanobots"
+    }
+  },
+  "dmhk-wp-065": {
+    "id": "dmhk-wp-065",
+    "type": "weapon",
+    "name": {
+      "pt": "mofo",
+      "en": "mold"
+    }
+  },
+  "dmhk-wp-066": {
+    "id": "dmhk-wp-066",
+    "type": "weapon",
+    "name": {
+      "pt": "lâmina de barbear",
+      "en": "razor blade"
+    }
+  },
+  "dmhk-wp-067": {
+    "id": "dmhk-wp-067",
+    "type": "weapon",
+    "name": {
+      "pt": "trilhos do trem",
+      "en": "train tracks"
+    }
+  },
+  "dmhk-wp-068": {
+    "id": "dmhk-wp-068",
+    "type": "weapon",
+    "name": {
+      "pt": "chave inglesa",
+      "en": "wrench"
+    }
+  },
+  "dmhk-wp-069": {
+    "id": "dmhk-wp-069",
+    "type": "weapon",
+    "name": {
+      "pt": "flecha",
+      "en": "arrow"
+    }
+  },
+  "dmhk-wp-070": {
+    "id": "dmhk-wp-070",
+    "type": "weapon",
+    "name": {
+      "pt": "corrente de metal",
+      "en": "metal chain"
+    }
+  },
+  "dmhk-wp-071": {
+    "id": "dmhk-wp-071",
+    "type": "weapon",
+    "name": {
+      "pt": "enterrado",
+      "en": "burry"
+    }
+  },
+  "dmhk-wp-072": {
+    "id": "dmhk-wp-072",
+    "type": "weapon",
+    "name": {
+      "pt": "arsênico",
+      "en": "arsenic"
+    }
+  },
+  "dmhk-wp-073": {
+    "id": "dmhk-wp-073",
+    "type": "weapon",
+    "name": {
+      "pt": "gás venenoso",
+      "en": "poisonous gas"
+    }
+  },
+  "dmhk-wp-074": {
+    "id": "dmhk-wp-074",
+    "type": "weapon",
+    "name": {
+      "pt": "toalha",
+      "en": "towel"
+    }
+  },
+  "dmhk-wp-075": {
+    "id": "dmhk-wp-075",
+    "type": "weapon",
+    "name": {
+      "pt": "tesoura",
+      "en": "scissors"
+    }
+  },
+  "dmhk-wp-076": {
+    "id": "dmhk-wp-076",
+    "type": "weapon",
+    "name": {
+      "pt": "chute",
+      "en": "kick"
+    }
+  },
+  "dmhk-wp-077": {
+    "id": "dmhk-wp-077",
+    "type": "weapon",
+    "name": {
+      "pt": "balão",
+      "en": "balloon"
+    }
+  },
+  "dmhk-wp-078": {
+    "id": "dmhk-wp-078",
+    "type": "weapon",
+    "name": {
+      "pt": "ameba",
+      "en": "amoeba"
+    }
+  },
+  "dmhk-wp-079": {
+    "id": "dmhk-wp-079",
+    "type": "weapon",
+    "name": {
+      "pt": "arame",
+      "en": "metal wire"
+    }
+  },
+  "dmhk-wp-080": {
+    "id": "dmhk-wp-080",
+    "type": "weapon",
+    "name": {
+      "pt": "vaso de planta",
+      "en": "potted plant"
+    }
+  },
+  "dmhk-wp-081": {
+    "id": "dmhk-wp-081",
+    "type": "weapon",
+    "name": {
+      "pt": "afogamento",
+      "en": "drown"
+    }
+  },
+  "dmhk-wp-082": {
+    "id": "dmhk-wp-082",
+    "type": "weapon",
+    "name": {
+      "pt": "escultura",
+      "en": "sculpture"
+    }
+  },
+  "dmhk-wp-083": {
+    "id": "dmhk-wp-083",
+    "type": "weapon",
+    "name": {
+      "pt": "mercúrio",
+      "en": "mercury"
+    }
+  },
+  "dmhk-wp-084": {
+    "id": "dmhk-wp-084",
+    "type": "weapon",
+    "name": {
+      "pt": "travesseiro",
+      "en": "pillow"
+    }
+  },
+  "dmhk-wp-085": {
+    "id": "dmhk-wp-085",
+    "type": "weapon",
+    "name": {
+      "pt": "plástico",
+      "en": "plastic wrap"
+    }
+  },
+  "dmhk-wp-086": {
+    "id": "dmhk-wp-086",
+    "type": "weapon",
+    "name": {
+      "pt": "água suja",
+      "en": "dirty water"
+    }
+  },
+  "dmhk-wp-087": {
+    "id": "dmhk-wp-087",
+    "type": "weapon",
+    "name": {
+      "pt": "fumaça",
+      "en": "smoke"
+    }
+  },
+  "dmhk-wp-088": {
+    "id": "dmhk-wp-088",
+    "type": "weapon",
+    "name": {
+      "pt": "muleta",
+      "en": "crutch"
+    }
+  },
+  "dmhk-wp-089": {
+    "id": "dmhk-wp-089",
+    "type": "weapon",
+    "name": {
+      "pt": "gancho",
+      "en": "hook"
+    }
+  },
+  "dmhk-wp-090": {
+    "id": "dmhk-wp-090",
+    "type": "weapon",
+    "name": {
+      "pt": "raquete de tênis",
+      "en": "tennis racket"
+    }
+  },
+  "dmhk-wp-091": {
+    "id": "dmhk-wp-091",
+    "type": "weapon",
+    "name": {
+      "pt": "extintor de incêndio",
+      "en": "fire extinguisher"
+    }
+  },
+  "dmhk-wp-092": {
+    "id": "dmhk-wp-092",
+    "type": "weapon",
+    "name": {
+      "pt": "comida estragada",
+      "en": "spoiled food"
+    }
+  },
+  "dmhk-wp-093": {
+    "id": "dmhk-wp-093",
+    "type": "weapon",
+    "name": {
+      "pt": "vazamento de gás",
+      "en": "gas leak"
+    }
+  },
+  "dmhk-wp-094": {
+    "id": "dmhk-wp-094",
+    "type": "weapon",
+    "name": {
+      "pt": "escada",
+      "en": "ladder"
+    }
+  },
+  "dmhk-wp-095": {
+    "id": "dmhk-wp-095",
+    "type": "weapon",
+    "name": {
+      "pt": "baguete",
+      "en": "baguette"
+    }
+  },
+  "dmhk-wp-096": {
+    "id": "dmhk-wp-096",
+    "type": "weapon",
+    "name": {
+      "pt": "haltere",
+      "en": "dumbbell"
+    }
+  },
+  "dmhk-wp-097": {
+    "id": "dmhk-wp-097",
+    "type": "weapon",
+    "name": {
+      "pt": "cinto",
+      "en": "belt"
+    }
+  },
+  "dmhk-wp-098": {
+    "id": "dmhk-wp-098",
+    "type": "weapon",
+    "name": {
+      "pt": "bastão",
+      "en": "bat"
+    }
+  },
+  "dmhk-wp-099": {
+    "id": "dmhk-wp-099",
+    "type": "weapon",
+    "name": {
+      "pt": "estilete",
+      "en": "box cutter"
+    }
+  },
+  "dmhk-wp-100": {
+    "id": "dmhk-wp-100",
+    "type": "weapon",
+    "name": {
+      "pt": "bola de futebol",
+      "en": "soccer ball"
+    }
+  },
+  "dmhk-wp-101": {
+    "id": "dmhk-wp-101",
+    "type": "weapon",
+    "name": {
+      "pt": "produtos químicos",
+      "en": "chemicals"
+    }
+  },
+  "dmhk-wp-102": {
+    "id": "dmhk-wp-102",
+    "type": "weapon",
+    "name": {
+      "pt": "cachecol",
+      "en": "scarf"
+    }
+  },
+  "dmhk-wp-103": {
+    "id": "dmhk-wp-103",
+    "type": "weapon",
+    "name": {
+      "pt": "querosene",
+      "en": "kerosene"
+    }
+  },
+  "dmhk-wp-104": {
+    "id": "dmhk-wp-104",
+    "type": "weapon",
+    "name": {
+      "pt": "video game",
+      "en": "video game console"
+    }
+  },
+  "dmhk-wp-105": {
+    "id": "dmhk-wp-105",
+    "type": "weapon",
+    "name": {
+      "pt": "droga líquida",
+      "en": "liquid drug"
+    }
+  },
+  "dmhk-wp-106": {
+    "id": "dmhk-wp-106",
+    "type": "weapon",
+    "name": {
+      "pt": "ácido sulfúrico",
+      "en": "sulfuric acid"
+    }
+  },
+  "dmhk-wp-107": {
+    "id": "dmhk-wp-107",
+    "type": "weapon",
+    "name": {
+      "pt": "escorpião venenoso",
+      "en": "venomous scorpion"
+    }
+  },
+  "dmhk-wp-108": {
+    "id": "dmhk-wp-108",
+    "type": "weapon",
+    "name": {
+      "pt": "pedra",
+      "en": "stone"
+    }
+  },
+  "dmhk-wp-109": {
+    "id": "dmhk-wp-109",
+    "type": "weapon",
+    "name": {
+      "pt": "furadeira",
+      "en": "drill"
+    }
+  },
+  "dmhk-wp-110": {
+    "id": "dmhk-wp-110",
+    "type": "weapon",
+    "name": {
+      "pt": "pistola de pregos",
+      "en": "nail gun"
+    }
+  },
+  "dmhk-wp-111": {
+    "id": "dmhk-wp-111",
+    "type": "weapon",
+    "name": {
+      "pt": "sanfona",
+      "en": "accordion"
+    }
+  },
+  "dmhk-wp-112": {
+    "id": "dmhk-wp-112",
+    "type": "weapon",
+    "name": {
+      "pt": "robô assassino",
+      "en": "killer robot"
+    }
+  },
+  "dmhk-wp-113": {
+    "id": "dmhk-wp-113",
+    "type": "weapon",
+    "name": {
+      "pt": "peça de mármore",
+      "en": "marble brick"
+    }
+  },
+  "dmhk-wp-114": {
+    "id": "dmhk-wp-114",
+    "type": "weapon",
+    "name": {
+      "pt": "demolição",
+      "en": "controlled demolition"
+    }
+  },
+  "dmhk-wp-115": {
+    "id": "dmhk-wp-115",
+    "type": "weapon",
+    "name": {
+      "pt": "infecção",
+      "en": "infection"
+    }
+  },
+  "dmhk-wp-116": {
+    "id": "dmhk-wp-116",
+    "type": "weapon",
+    "name": {
+      "pt": "pára-quedas furado",
+      "en": "faulty parachute"
+    }
+  },
+  "dmhk-wp-117": {
+    "id": "dmhk-wp-117",
+    "type": "weapon",
+    "name": {
+      "pt": "na mão",
+      "en": "unarmed"
+    }
+  },
+  "dmhk-wp-118": {
+    "id": "dmhk-wp-118",
+    "type": "weapon",
+    "name": {
+      "pt": "dardo envenenado",
+      "en": "poison dart"
+    }
+  },
+  "dmhk-wp-119": {
+    "id": "dmhk-wp-119",
+    "type": "weapon",
+    "name": {
+      "pt": "lawnmower",
+      "en": "cortador de grama"
+    }
+  },
+  "dmhk-wp-120": {
+    "id": "dmhk-wp-120",
+    "type": "weapon",
+    "name": {
+      "pt": "poço do elevador",
+      "en": "elevator shaft"
+    }
+  },
+  "dmhk-wp-121": {
+    "id": "dmhk-wp-121",
+    "type": "weapon",
+    "name": {
+      "pt": "tamborete",
+      "en": "folding chair"
+    }
+  },
+  "dmhk-wp-122": {
+    "id": "dmhk-wp-122",
+    "type": "weapon",
+    "name": {
+      "pt": "álcool",
+      "en": "alcohol"
+    }
+  },
+  "dmhk-wp-123": {
+    "id": "dmhk-wp-123",
+    "type": "weapon",
+    "name": {
+      "pt": "tudo de aço",
+      "en": "steel tube"
+    }
+  },
+  "dmhk-wp-124": {
+    "id": "dmhk-wp-124",
+    "type": "weapon",
+    "name": {
+      "pt": "rede",
+      "en": "net"
+    }
+  },
+  "dmhk-wp-125": {
+    "id": "dmhk-wp-125",
+    "type": "weapon",
+    "name": {
+      "pt": "praga",
+      "en": "plague"
+    }
+  },
+  "dmhk-wp-126": {
+    "id": "dmhk-wp-126",
+    "type": "weapon",
+    "name": {
+      "pt": "trabalho",
+      "en": "work"
+    }
+  },
+  "dmhk-wp-127": {
+    "id": "dmhk-wp-127",
+    "type": "weapon",
+    "name": {
+      "pt": "durex",
+      "en": "packing tape"
+    }
+  },
+  "dmhk-wp-128": {
+    "id": "dmhk-wp-128",
+    "type": "weapon",
+    "name": {
+      "pt": "pistola",
+      "en": "pistol"
+    }
+  },
+  "dmhk-wp-129": {
+    "id": "dmhk-wp-129",
+    "type": "weapon",
+    "name": {
+      "pt": "x-burger",
+      "en": "cheeseburger"
+    }
+  },
+  "dmhk-wp-130": {
+    "id": "dmhk-wp-130",
+    "type": "weapon",
+    "name": {
+      "pt": "drogas ilegais",
+      "en": "illegal drug"
+    }
   }
 }
