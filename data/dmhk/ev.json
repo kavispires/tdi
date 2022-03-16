@@ -798,5 +798,805 @@
       "en": "peanut",
       "pt": "amendoim"
     }
+  },
+  "dmhk-ev-101": {
+    "id": "dmhk-ev-101",
+    "type": "evidence",
+    "name": {
+      "en": "toy",
+      "pt": "brinquedo"
+    }
+  },
+  "dmhk-ev-102": {
+    "id": "dmhk-ev-102",
+    "type": "evidence",
+    "name": {
+      "en": "coins",
+      "pt": "moedas"
+    }
+  },
+  "dmhk-ev-103": {
+    "id": "dmhk-ev-103",
+    "type": "evidence",
+    "name": {
+      "en": "carton",
+      "pt": "caixa de papelão"
+    }
+  },
+  "dmhk-ev-104": {
+    "id": "dmhk-ev-104",
+    "type": "evidence",
+    "name": {
+      "en": "ink",
+      "pt": "tinta"
+    }
+  },
+  "dmhk-ev-105": {
+    "id": "dmhk-ev-105",
+    "type": "evidence",
+    "name": {
+      "en": "food ingredients",
+      "pt": "ingredientes culinários"
+    }
+  },
+  "dmhk-ev-106": {
+    "id": "dmhk-ev-106",
+    "type": "evidence",
+    "name": {
+      "en": "umbrella",
+      "pt": "guarda-chuva"
+    }
+  },
+  "dmhk-ev-107": {
+    "id": "dmhk-ev-107",
+    "type": "evidence",
+    "name": {
+      "en": "castanets",
+      "pt": "castanholas"
+    }
+  },
+  "dmhk-ev-108": {
+    "id": "dmhk-ev-108",
+    "type": "evidence",
+    "name": {
+      "en": "dragon fruit",
+      "pt": "pitaia"
+    }
+  },
+  "dmhk-ev-109": {
+    "id": "dmhk-ev-109",
+    "type": "evidence",
+    "name": {
+      "en": "bracelet",
+      "pt": "bracelete"
+    }
+  },
+  "dmhk-ev-110": {
+    "id": "dmhk-ev-110",
+    "type": "evidence",
+    "name": {
+      "en": "maze",
+      "pt": "labirinto"
+    }
+  },
+  "dmhk-ev-111": {
+    "id": "dmhk-ev-111",
+    "type": "evidence",
+    "name": {
+      "en": "cotton",
+      "pt": "algodão"
+    }
+  },
+  "dmhk-ev-112": {
+    "id": "dmhk-ev-112",
+    "type": "evidence",
+    "name": {
+      "en": "light bulb",
+      "pt": "lâmpada"
+    }
+  },
+  "dmhk-ev-113": {
+    "id": "dmhk-ev-113",
+    "type": "evidence",
+    "name": {
+      "en": "carnival mask",
+      "pt": "máscara de carnaval"
+    }
+  },
+  "dmhk-ev-114": {
+    "id": "dmhk-ev-114",
+    "type": "evidence",
+    "name": {
+      "en": "skull",
+      "pt": "caveira"
+    }
+  },
+  "dmhk-ev-115": {
+    "id": "dmhk-ev-115",
+    "type": "evidence",
+    "name": {
+      "en": "spring",
+      "pt": "mola"
+    }
+  },
+  "dmhk-ev-116": {
+    "id": "dmhk-ev-116",
+    "type": "evidence",
+    "name": {
+      "en": "powder",
+      "pt": "pó"
+    }
+  },
+  "dmhk-ev-117": {
+    "id": "dmhk-ev-117",
+    "type": "evidence",
+    "name": {
+      "en": "violin",
+      "pt": "violino"
+    }
+  },
+  "dmhk-ev-118": {
+    "id": "dmhk-ev-118",
+    "type": "evidence",
+    "name": {
+      "en": "uniform",
+      "pt": "uniforme"
+    }
+  },
+  "dmhk-ev-119": {
+    "id": "dmhk-ev-119",
+    "type": "evidence",
+    "name": {
+      "en": "instant noodles",
+      "pt": "miojo"
+    }
+  },
+  "dmhk-ev-120": {
+    "id": "dmhk-ev-120",
+    "type": "evidence",
+    "name": {
+      "en": "chopsticks",
+      "pt": "pauzinhos"
+    }
+  },
+  "dmhk-ev-121": {
+    "id": "dmhk-ev-121",
+    "type": "evidence",
+    "name": {
+      "en": "iron",
+      "pt": "ferro"
+    }
+  },
+  "dmhk-ev-122": {
+    "id": "dmhk-ev-122",
+    "type": "evidence",
+    "name": {
+      "en": "office supplies",
+      "pt": "material de escritório"
+    }
+  },
+  "dmhk-ev-123": {
+    "id": "dmhk-ev-123",
+    "type": "evidence",
+    "name": {
+      "en": "eggs",
+      "pt": "ovos"
+    }
+  },
+  "dmhk-ev-124": {
+    "id": "dmhk-ev-124",
+    "type": "evidence",
+    "name": {
+      "en": "diaper",
+      "pt": "fralda"
+    }
+  },
+  "dmhk-ev-125": {
+    "id": "dmhk-ev-125",
+    "type": "evidence",
+    "name": {
+      "en": "candy",
+      "pt": "pirulito"
+    }
+  },
+  "dmhk-ev-126": {
+    "id": "dmhk-ev-126",
+    "type": "evidence",
+    "name": {
+      "en": "cigarette butt",
+      "pt": ""
+    }
+  },
+  "dmhk-ev-127": {
+    "id": "dmhk-ev-127",
+    "type": "evidence",
+    "name": {
+      "en": "telephone",
+      "pt": "telefone"
+    }
+  },
+  "dmhk-ev-128": {
+    "id": "dmhk-ev-128",
+    "type": "evidence",
+    "name": {
+      "en": "diary",
+      "pt": "diário"
+    }
+  },
+  "dmhk-ev-129": {
+    "id": "dmhk-ev-129",
+    "type": "evidence",
+    "name": {
+      "en": "hair",
+      "pt": "cabelo"
+    }
+  },
+  "dmhk-ev-130": {
+    "id": "dmhk-ev-130",
+    "type": "evidence",
+    "name": {
+      "en": "flute",
+      "pt": "flauta"
+    }
+  },
+  "dmhk-ev-131": {
+    "id": "dmhk-ev-131",
+    "type": "evidence",
+    "name": {
+      "en": "broom",
+      "pt": "vassoura"
+    }
+  },
+  "dmhk-ev-132": {
+    "id": "dmhk-ev-132",
+    "type": "evidence",
+    "name": {
+      "en": "key",
+      "pt": "chave"
+    }
+  },
+  "dmhk-ev-133": {
+    "id": "dmhk-ev-133",
+    "type": "evidence",
+    "name": {
+      "en": "juice",
+      "pt": "suco"
+    }
+  },
+  "dmhk-ev-134": {
+    "id": "dmhk-ev-134",
+    "type": "evidence",
+    "name": {
+      "en": "dice",
+      "pt": "dados"
+    }
+  },
+  "dmhk-ev-135": {
+    "id": "dmhk-ev-135",
+    "type": "evidence",
+    "name": {
+      "en": "blood",
+      "pt": "sangue"
+    }
+  },
+  "dmhk-ev-136": {
+    "id": "dmhk-ev-136",
+    "type": "evidence",
+    "name": {
+      "en": "dog fur",
+      "pt": "pelo de cachorro"
+    }
+  },
+  "dmhk-ev-137": {
+    "id": "dmhk-ev-137",
+    "type": "evidence",
+    "name": {
+      "en": "nail",
+      "pt": "unha"
+    }
+  },
+  "dmhk-ev-138": {
+    "id": "dmhk-ev-138",
+    "type": "evidence",
+    "name": {
+      "en": "book",
+      "pt": "livro"
+    }
+  },
+  "dmhk-ev-139": {
+    "id": "dmhk-ev-139",
+    "type": "evidence",
+    "name": {
+      "en": "necklace",
+      "pt": "colar"
+    }
+  },
+  "dmhk-ev-140": {
+    "id": "dmhk-ev-140",
+    "type": "evidence",
+    "name": {
+      "en": "backpack",
+      "pt": "mochila"
+    }
+  },
+  "dmhk-ev-141": {
+    "id": "dmhk-ev-141",
+    "type": "evidence",
+    "name": {
+      "en": "needle and thread",
+      "pt": "agulha e linha"
+    }
+  },
+  "dmhk-ev-142": {
+    "id": "dmhk-ev-142",
+    "type": "evidence",
+    "name": {
+      "en": "fax",
+      "pt": "fax"
+    }
+  },
+  "dmhk-ev-143": {
+    "id": "dmhk-ev-143",
+    "type": "evidence",
+    "name": {
+      "en": "internet cable",
+      "pt": "cabo de rede"
+    }
+  },
+  "dmhk-ev-144": {
+    "id": "dmhk-ev-144",
+    "type": "evidence",
+    "name": {
+      "en": "panties",
+      "pt": "calcinha"
+    }
+  },
+  "dmhk-ev-145": {
+    "id": "dmhk-ev-145",
+    "type": "evidence",
+    "name": {
+      "en": "toy blocks",
+      "pt": "blocos de brinquedo"
+    }
+  },
+  "dmhk-ev-146": {
+    "id": "dmhk-ev-146",
+    "type": "evidence",
+    "name": {
+      "en": "safety pin",
+      "pt": "alfinete"
+    }
+  },
+  "dmhk-ev-147": {
+    "id": "dmhk-ev-147",
+    "type": "evidence",
+    "name": {
+      "en": "notebook",
+      "pt": "caderno"
+    }
+  },
+  "dmhk-ev-148": {
+    "id": "dmhk-ev-148",
+    "type": "evidence",
+    "name": {
+      "en": "surgical mask",
+      "pt": "máscara de cirurgia"
+    }
+  },
+  "dmhk-ev-149": {
+    "id": "dmhk-ev-149",
+    "type": "evidence",
+    "name": {
+      "en": "surveillance camera",
+      "pt": "câmera de segurança"
+    }
+  },
+  "dmhk-ev-150": {
+    "id": "dmhk-ev-150",
+    "type": "evidence",
+    "name": {
+      "en": "mask",
+      "pt": "máscara"
+    }
+  },
+  "dmhk-ev-151": {
+    "id": "dmhk-ev-151",
+    "type": "evidence",
+    "name": {
+      "en": "certificate",
+      "pt": "certificado"
+    }
+  },
+  "dmhk-ev-152": {
+    "id": "dmhk-ev-152",
+    "type": "evidence",
+    "name": {
+      "en": "tack",
+      "pt": "tachinha"
+    }
+  },
+  "dmhk-ev-153": {
+    "id": "dmhk-ev-153",
+    "type": "evidence",
+    "name": {
+      "en": "film",
+      "pt": "filme"
+    }
+  },
+  "dmhk-ev-154": {
+    "id": "dmhk-ev-154",
+    "type": "evidence",
+    "name": {
+      "en": "horseshoe",
+      "pt": "ferradura"
+    }
+  },
+  "dmhk-ev-155": {
+    "id": "dmhk-ev-155",
+    "type": "evidence",
+    "name": {
+      "en": "snacks",
+      "pt": "lanche"
+    }
+  },
+  "dmhk-ev-156": {
+    "id": "dmhk-ev-156",
+    "type": "evidence",
+    "name": {
+      "en": "rake",
+      "pt": "ancinho"
+    }
+  },
+  "dmhk-ev-157": {
+    "id": "dmhk-ev-157",
+    "type": "evidence",
+    "name": {
+      "en": "badge",
+      "pt": "distintivo"
+    }
+  },
+  "dmhk-ev-158": {
+    "id": "dmhk-ev-158",
+    "type": "evidence",
+    "name": {
+      "en": "take out",
+      "pt": "marmitex"
+    }
+  },
+  "dmhk-ev-159": {
+    "id": "dmhk-ev-159",
+    "type": "evidence",
+    "name": {
+      "en": "fishing rod",
+      "pt": "vara de pescar"
+    }
+  },
+  "dmhk-ev-160": {
+    "id": "dmhk-ev-160",
+    "type": "evidence",
+    "name": {
+      "en": "fingerprint",
+      "pt": "impressão digital"
+    }
+  },
+  "dmhk-ev-161": {
+    "id": "dmhk-ev-161",
+    "type": "evidence",
+    "name": {
+      "en": "adapter",
+      "pt": "adaptador"
+    }
+  },
+  "dmhk-ev-162": {
+    "id": "dmhk-ev-162",
+    "type": "evidence",
+    "name": {
+      "en": "earrings",
+      "pt": "brincos"
+    }
+  },
+  "dmhk-ev-163": {
+    "id": "dmhk-ev-163",
+    "type": "evidence",
+    "name": {
+      "en": "feta cheese",
+      "pt": "queijo feta"
+    }
+  },
+  "dmhk-ev-164": {
+    "id": "dmhk-ev-164",
+    "type": "evidence",
+    "name": {
+      "en": "timber",
+      "pt": "madeira"
+    }
+  },
+  "dmhk-ev-165": {
+    "id": "dmhk-ev-165",
+    "type": "evidence",
+    "name": {
+      "en": "rubber stamp",
+      "pt": "carimbo"
+    }
+  },
+  "dmhk-ev-166": {
+    "id": "dmhk-ev-166",
+    "type": "evidence",
+    "name": {
+      "en": "oil stain",
+      "pt": "marca de olho"
+    }
+  },
+  "dmhk-ev-167": {
+    "id": "dmhk-ev-167",
+    "type": "evidence",
+    "name": {
+      "en": "betting chips",
+      "pt": "fichas de aposta"
+    }
+  },
+  "dmhk-ev-168": {
+    "id": "dmhk-ev-168",
+    "type": "evidence",
+    "name": {
+      "en": "flamenco skirt",
+      "pt": "saia de flamenco"
+    }
+  },
+  "dmhk-ev-169": {
+    "id": "dmhk-ev-169",
+    "type": "evidence",
+    "name": {
+      "en": "teapot",
+      "pt": "bule"
+    }
+  },
+  "dmhk-ev-170": {
+    "id": "dmhk-ev-170",
+    "type": "evidence",
+    "name": {
+      "en": "cowboy hat",
+      "pt": "chapéu de cowboy"
+    }
+  },
+  "dmhk-ev-171": {
+    "id": "dmhk-ev-171",
+    "type": "evidence",
+    "name": {
+      "en": "graffitti",
+      "pt": "pichação"
+    }
+  },
+  "dmhk-ev-172": {
+    "id": "dmhk-ev-172",
+    "type": "evidence",
+    "name": {
+      "en": "purse",
+      "pt": "bolsa"
+    }
+  },
+  "dmhk-ev-173": {
+    "id": "dmhk-ev-173",
+    "type": "evidence",
+    "name": {
+      "en": "soap",
+      "pt": "sabonete"
+    }
+  },
+  "dmhk-ev-174": {
+    "id": "dmhk-ev-174",
+    "type": "evidence",
+    "name": {
+      "en": "numbers",
+      "pt": "números"
+    }
+  },
+  "dmhk-ev-175": {
+    "id": "dmhk-ev-175",
+    "type": "evidence",
+    "name": {
+      "en": "boot",
+      "pt": "bota"
+    }
+  },
+  "dmhk-ev-176": {
+    "id": "dmhk-ev-176",
+    "type": "evidence",
+    "name": {
+      "en": "dog leash",
+      "pt": "coleira"
+    }
+  },
+  "dmhk-ev-177": {
+    "id": "dmhk-ev-177",
+    "type": "evidence",
+    "name": {
+      "en": "bucket",
+      "pt": "balde"
+    }
+  },
+  "dmhk-ev-178": {
+    "id": "dmhk-ev-178",
+    "type": "evidence",
+    "name": {
+      "en": "pizza",
+      "pt": "pizza"
+    }
+  },
+  "dmhk-ev-179": {
+    "id": "dmhk-ev-179",
+    "type": "evidence",
+    "name": {
+      "en": "switch",
+      "pt": "interruptor"
+    }
+  },
+  "dmhk-ev-180": {
+    "id": "dmhk-ev-180",
+    "type": "evidence",
+    "name": {
+      "en": "shards of glass",
+      "pt": "cacos de vidro"
+    }
+  },
+  "dmhk-ev-181": {
+    "id": "dmhk-ev-181",
+    "type": "evidence",
+    "name": {
+      "en": "superhero mask",
+      "pt": "máscara de super-herói"
+    }
+  },
+  "dmhk-ev-182": {
+    "id": "dmhk-ev-182",
+    "type": "evidence",
+    "name": {
+      "en": "fabric",
+      "pt": "tecido"
+    }
+  },
+  "dmhk-ev-183": {
+    "id": "dmhk-ev-183",
+    "type": "evidence",
+    "name": {
+      "en": "postal stamp",
+      "pt": "selo"
+    }
+  },
+  "dmhk-ev-184": {
+    "id": "dmhk-ev-184",
+    "type": "evidence",
+    "name": {
+      "en": "fiber optics",
+      "pt": "cabo de fibra óptica"
+    }
+  },
+  "dmhk-ev-185": {
+    "id": "dmhk-ev-185",
+    "type": "evidence",
+    "name": {
+      "en": "spinning top",
+      "pt": "peão"
+    }
+  },
+  "dmhk-ev-186": {
+    "id": "dmhk-ev-186",
+    "type": "evidence",
+    "name": {
+      "en": "hockey mask",
+      "pt": "máscara de hockey"
+    }
+  },
+  "dmhk-ev-187": {
+    "id": "dmhk-ev-187",
+    "type": "evidence",
+    "name": {
+      "en": "ghost mask",
+      "pt": "máscara do pânico"
+    }
+  },
+  "dmhk-ev-188": {
+    "id": "dmhk-ev-188",
+    "type": "evidence",
+    "name": {
+      "en": "luchador mask",
+      "pt": "máscara de luchador"
+    }
+  },
+  "dmhk-ev-189": {
+    "id": "dmhk-ev-189",
+    "type": "evidence",
+    "name": {
+      "en": "fingernails",
+      "pt": "unhas"
+    }
+  },
+  "dmhk-ev-190": {
+    "id": "dmhk-ev-190",
+    "type": "evidence",
+    "name": {
+      "en": "mark",
+      "pt": "marca"
+    }
+  },
+  "dmhk-ev-191": {
+    "id": "dmhk-ev-191",
+    "type": "evidence",
+    "name": {
+      "en": "password",
+      "pt": "senha"
+    }
+  },
+  "dmhk-ev-192": {
+    "id": "dmhk-ev-192",
+    "type": "evidence",
+    "name": {
+      "en": "curtains",
+      "pt": "cortinas"
+    }
+  },
+  "dmhk-ev-193": {
+    "id": "dmhk-ev-193",
+    "type": "evidence",
+    "name": {
+      "en": "fan",
+      "pt": "ventilador"
+    }
+  },
+  "dmhk-ev-194": {
+    "id": "dmhk-ev-194",
+    "type": "evidence",
+    "name": {
+      "en": "gear",
+      "pt": "engrenagem"
+    }
+  },
+  "dmhk-ev-195": {
+    "id": "dmhk-ev-195",
+    "type": "evidence",
+    "name": {
+      "en": "fleas",
+      "pt": "pulgas"
+    }
+  },
+  "dmhk-ev-196": {
+    "id": "dmhk-ev-196",
+    "type": "evidence",
+    "name": {
+      "en": "insect",
+      "pt": "inseto"
+    }
+  },
+  "dmhk-ev-197": {
+    "id": "dmhk-ev-197",
+    "type": "evidence",
+    "name": {
+      "en": "electric circuit",
+      "pt": "circuito elétrico"
+    }
+  },
+  "dmhk-ev-198": {
+    "id": "dmhk-ev-198",
+    "type": "evidence",
+    "name": {
+      "en": "dust",
+      "pt": "poeira"
+    }
+  },
+  "dmhk-ev-199": {
+    "id": "dmhk-ev-199",
+    "type": "evidence",
+    "name": {
+      "en": "website",
+      "pt": "website"
+    }
+  },
+  "dmhk-ev-200": {
+    "id": "dmhk-ev-200",
+    "type": "evidence",
+    "name": {
+      "en": "paint",
+      "pt": "tinta"
+    }
   }
 }
