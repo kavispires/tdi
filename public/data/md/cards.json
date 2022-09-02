@@ -13,7 +13,7 @@
   },
   "md-bs-004": {
     "id": "md-bs-004",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-005": {
     "id": "md-bs-005",
@@ -37,7 +37,7 @@
   },
   "md-bs-010": {
     "id": "md-bs-010",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-011": {
     "id": "md-bs-011",
@@ -45,7 +45,7 @@
   },
   "md-bs-012": {
     "id": "md-bs-012",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-013": {
     "id": "md-bs-013",
@@ -61,11 +61,11 @@
   },
   "md-bs-016": {
     "id": "md-bs-016",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-017": {
     "id": "md-bs-017",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-018": {
     "id": "md-bs-018",
@@ -77,7 +77,7 @@
   },
   "md-bs-020": {
     "id": "md-bs-020",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-021": {
     "id": "md-bs-021",
@@ -93,7 +93,7 @@
   },
   "md-bs-024": {
     "id": "md-bs-024",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-025": {
     "id": "md-bs-025",
@@ -105,7 +105,7 @@
   },
   "md-bs-027": {
     "id": "md-bs-027",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-028": {
     "id": "md-bs-028",
@@ -153,7 +153,7 @@
   },
   "md-bs-039": {
     "id": "md-bs-039",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-040": {
     "id": "md-bs-040",
@@ -185,7 +185,7 @@
   },
   "md-bs-047": {
     "id": "md-bs-047",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-048": {
     "id": "md-bs-048",
@@ -193,11 +193,11 @@
   },
   "md-bs-049": {
     "id": "md-bs-049",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-050": {
     "id": "md-bs-050",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-051": {
     "id": "md-bs-051",
@@ -225,7 +225,7 @@
   },
   "md-bs-057": {
     "id": "md-bs-057",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-058": {
     "id": "md-bs-058",
@@ -233,7 +233,7 @@
   },
   "md-bs-059": {
     "id": "md-bs-059",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-060": {
     "id": "md-bs-060",
@@ -241,7 +241,7 @@
   },
   "md-bs-061": {
     "id": "md-bs-061",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-062": {
     "id": "md-bs-062",
@@ -269,7 +269,7 @@
   },
   "md-bs-068": {
     "id": "md-bs-068",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-069": {
     "id": "md-bs-069",
@@ -309,7 +309,7 @@
   },
   "md-bs-078": {
     "id": "md-bs-078",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-079": {
     "id": "md-bs-079",
@@ -317,7 +317,7 @@
   },
   "md-bs-080": {
     "id": "md-bs-080",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-081": {
     "id": "md-bs-081",
@@ -333,11 +333,11 @@
   },
   "md-bs-084": {
     "id": "md-bs-084",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-085": {
     "id": "md-bs-085",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-086": {
     "id": "md-bs-086",
@@ -345,19 +345,19 @@
   },
   "md-bs-087": {
     "id": "md-bs-087",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-088": {
     "id": "md-bs-088",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-089": {
     "id": "md-bs-089",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-090": {
     "id": "md-bs-090",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-091": {
     "id": "md-bs-091",
@@ -365,7 +365,7 @@
   },
   "md-bs-092": {
     "id": "md-bs-092",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-093": {
     "id": "md-bs-093",
@@ -373,7 +373,7 @@
   },
   "md-bs-094": {
     "id": "md-bs-094",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-095": {
     "id": "md-bs-095",
@@ -389,7 +389,7 @@
   },
   "md-bs-098": {
     "id": "md-bs-098",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-bs-099": {
     "id": "md-bs-099",
@@ -397,7 +397,7 @@
   },
   "md-cc-001": {
     "id": "md-cc-001",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-cc-002": {
     "id": "md-cc-002",
@@ -405,11 +405,11 @@
   },
   "md-cc-003": {
     "id": "md-cc-003",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-cc-004": {
     "id": "md-cc-004",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-cc-005": {
     "id": "md-cc-005",
@@ -417,7 +417,7 @@
   },
   "md-cc-006": {
     "id": "md-cc-006",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-cc-007": {
     "id": "md-cc-007",
@@ -437,11 +437,11 @@
   },
   "md-cc-011": {
     "id": "md-cc-011",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-cc-012": {
     "id": "md-cc-012",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-cc-013": {
     "id": "md-cc-013",
@@ -493,7 +493,7 @@
   },
   "md-cc-025": {
     "id": "md-cc-025",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-cc-026": {
     "id": "md-cc-026",
@@ -509,15 +509,15 @@
   },
   "md-cc-029": {
     "id": "md-cc-029",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-cc-030": {
     "id": "md-cc-030",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-cc-031": {
     "id": "md-cc-031",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-cc-032": {
     "id": "md-cc-032",
@@ -545,7 +545,7 @@
   },
   "md-cc-038": {
     "id": "md-cc-038",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-cc-039": {
     "id": "md-cc-039",
@@ -553,15 +553,15 @@
   },
   "md-cc-040": {
     "id": "md-cc-040",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-001": {
     "id": "md-rb-001",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-002": {
     "id": "md-rb-002",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-003": {
     "id": "md-rb-003",
@@ -573,11 +573,11 @@
   },
   "md-rb-005": {
     "id": "md-rb-005",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-006": {
     "id": "md-rb-006",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-007": {
     "id": "md-rb-007",
@@ -597,7 +597,7 @@
   },
   "md-rb-011": {
     "id": "md-rb-011",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-012": {
     "id": "md-rb-012",
@@ -613,11 +613,11 @@
   },
   "md-rb-015": {
     "id": "md-rb-015",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-016": {
     "id": "md-rb-016",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-017": {
     "id": "md-rb-017",
@@ -629,11 +629,11 @@
   },
   "md-rb-019": {
     "id": "md-rb-019",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-020": {
     "id": "md-rb-020",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-021": {
     "id": "md-rb-021",
@@ -641,7 +641,7 @@
   },
   "md-rb-022": {
     "id": "md-rb-022",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-023": {
     "id": "md-rb-023",
@@ -649,7 +649,7 @@
   },
   "md-rb-024": {
     "id": "md-rb-024",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-025": {
     "id": "md-rb-025",
@@ -657,7 +657,7 @@
   },
   "md-rb-026": {
     "id": "md-rb-026",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-027": {
     "id": "md-rb-027",
@@ -689,7 +689,7 @@
   },
   "md-rb-034": {
     "id": "md-rb-034",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-035": {
     "id": "md-rb-035",
@@ -713,7 +713,7 @@
   },
   "md-rb-040": {
     "id": "md-rb-040",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-041": {
     "id": "md-rb-041",
@@ -721,7 +721,7 @@
   },
   "md-rb-042": {
     "id": "md-rb-042",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-043": {
     "id": "md-rb-043",
@@ -733,7 +733,7 @@
   },
   "md-rb-045": {
     "id": "md-rb-045",
-    "orientation": "vertical"
+    "orientation": "horizontal"
   },
   "md-rb-046": {
     "id": "md-rb-046",
