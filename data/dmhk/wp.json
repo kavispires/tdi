@@ -49,7 +49,7 @@
             "firearm",
             "holdable",
             "large",
-            "loud"
+            "sound"
         ]
     },
     "dmhk-wp-005": {
@@ -62,7 +62,7 @@
         "tags": [
             "food",
             "holdable",
-            "hard"
+            "organic"
         ]
     },
     "dmhk-wp-006": {
@@ -291,7 +291,7 @@
             "pt": "vírus"
         },
         "tags": [
-            "living",
+            "organic",
             "ingestible"
         ]
     },
@@ -635,7 +635,7 @@
             "en": "cactus"
         },
         "tags": [
-            "thorn",
+            "sharp",
             "plant"
         ]
     },
@@ -673,7 +673,7 @@
         },
         "tags": [
             "action",
-            "mistake"
+            "accident"
         ]
     },
     "dmhk-wp-054": {
@@ -724,7 +724,7 @@
         },
         "tags": [
             "sharp",
-            "machine",
+            "powered",
             "holdable",
             "heavy"
         ]
@@ -981,7 +981,8 @@
             "en": "balloon"
         },
         "tags": [
-            "child"
+            "child",
+            "gas"
         ]
     },
     "dmhk-wp-078": {
@@ -1094,7 +1095,7 @@
             "en": "dirty water"
         },
         "tags": [
-            "liguid",
+            "liquid",
             "ingestible",
             "dirty"
         ]
