@@ -20,7 +20,9 @@
     },
     "tags": [
       "electronic",
-      "personal"
+      "personal",
+      "work",
+      "learning"
     ]
   },
   "dmhk-ev-003": {
@@ -34,7 +36,8 @@
       "paper",
       "fragile",
       "reading",
-      "holdable"
+      "holdable",
+      "leisure"
     ]
   },
   "dmhk-ev-004": {
@@ -48,7 +51,9 @@
       "paper",
       "fragile",
       "reading",
-      "holdable"
+      "holdable",
+      "leisure",
+      "child"
     ]
   },
   "dmhk-ev-005": {
@@ -59,7 +64,8 @@
       "pt": "plástico"
     },
     "tags": [
-      "holdable"
+      "holdable",
+      "plastic"
     ]
   },
   "dmhk-ev-006": {
@@ -72,7 +78,8 @@
     "tags": [
       "metal",
       "holdable",
-      "heavy"
+      "heavy",
+      "building"
     ]
   },
   "dmhk-ev-007": {
@@ -95,7 +102,9 @@
       "pt": "porta retrato"
     },
     "tags": [
-      "holdable"
+      "holdable",
+      "personal",
+      "home"
     ]
   },
   "dmhk-ev-009": {
@@ -106,8 +115,8 @@
       "pt": "notebook"
     },
     "tags": [
-      "personal",
-      "electronic"
+      "electronic",
+      "work"
     ]
   },
   "dmhk-ev-010": {
@@ -131,7 +140,9 @@
     },
     "tags": [
       "electronic",
-      "tool"
+      "tool",
+      "work",
+      "small"
     ]
   },
   "dmhk-ev-012": {
@@ -143,8 +154,9 @@
     },
     "tags": [
       "paper",
-      "food",
-      "reading"
+      "reading",
+      "eating",
+      "holdable"
     ]
   },
   "dmhk-ev-013": {
@@ -155,8 +167,7 @@
       "pt": "pano de chão"
     },
     "tags": [
-      "fabric",
-      "cord"
+      "fabric"
     ]
   },
   "dmhk-ev-014": {
@@ -168,8 +179,8 @@
     },
     "tags": [
       "mineral",
-      "valuable",
-      "holdable"
+      "holdable",
+      "wealth"
     ]
   },
   "dmhk-ev-015": {
@@ -182,7 +193,8 @@
     "tags": [
       "personal",
       "small",
-      "wearable"
+      "wearable",
+      "eye"
     ]
   },
   "dmhk-ev-016": {
@@ -268,7 +280,8 @@
     "tags": [
       "electronic",
       "holdable",
-      "small"
+      "small",
+      "home"
     ]
   },
   "dmhk-ev-023": {
@@ -281,7 +294,8 @@
     "tags": [
       "cooking",
       "punctureable",
-      "personal"
+      "personal",
+      "eating"
     ]
   },
   "dmhk-ev-024": {
@@ -304,7 +318,8 @@
     },
     "tags": [
       "paper",
-      "holdable"
+      "holdable",
+      "game"
     ]
   },
   "dmhk-ev-026": {
@@ -340,7 +355,8 @@
     },
     "tags": [
       "child",
-      "wearable"
+      "wearable",
+      "head"
     ]
   },
   "dmhk-ev-029": {
@@ -352,7 +368,8 @@
     },
     "tags": [
       "insect",
-      "dirty"
+      "dirty",
+      "small"
     ]
   },
   "dmhk-ev-030": {
@@ -418,7 +435,8 @@
     "tags": [
       "plant",
       "thorn",
-      "holdable"
+      "holdable",
+      "female"
     ]
   },
   "dmhk-ev-035": {
@@ -443,7 +461,9 @@
     "tags": [
       "hard",
       "wearable",
-      "transport"
+      "transport",
+      "head",
+      "outdoors"
     ]
   },
   "dmhk-ev-037": {
@@ -468,7 +488,8 @@
     },
     "tags": [
       "personal",
-      "mouth-on"
+      "mouth-on",
+      "old"
     ]
   },
   "dmhk-ev-039": {
@@ -480,7 +501,8 @@
     },
     "tags": [
       "fabric",
-      "food"
+      "paper",
+      "eating"
     ]
   },
   "dmhk-ev-040": {
@@ -492,7 +514,8 @@
     },
     "tags": [
       "stain",
-      "holdable"
+      "holdable",
+      "writing"
     ]
   },
   "dmhk-ev-041": {
@@ -505,7 +528,8 @@
     "tags": [
       "mouth-on",
       "personal",
-      "stain"
+      "stain",
+      "female"
     ]
   },
   "dmhk-ev-042": {
@@ -517,7 +541,8 @@
     },
     "tags": [
       "glass",
-      "object"
+      "object",
+      "old"
     ]
   },
   "dmhk-ev-043": {
@@ -554,7 +579,11 @@
     },
     "tags": [
       "wearable",
-      "small"
+      "small",
+      "metal",
+      "wealth",
+      "feelings",
+      "personal"
     ]
   },
   "dmhk-ev-046": {
@@ -567,7 +596,8 @@
     "tags": [
       "injectable",
       "liquid",
-      "plastic"
+      "plastic",
+      "drug"
     ]
   },
   "dmhk-ev-047": {
@@ -604,7 +634,8 @@
     },
     "tags": [
       "paper",
-      "wealth"
+      "wealth",
+      "writing"
     ]
   },
   "dmhk-ev-050": {
@@ -639,7 +670,10 @@
       "pt": "relógio",
       "en": "clock"
     },
-    "tags": []
+    "tags": [
+      "object",
+      "time"
+    ]
   },
   "dmhk-ev-053": {
     "id": "dmhk-ev-053",
@@ -650,7 +684,8 @@
     },
     "tags": [
       "wearable",
-      "female"
+      "female",
+      "fabric"
     ]
   },
   "dmhk-ev-054": {
@@ -673,7 +708,8 @@
       "en": "cookies"
     },
     "tags": [
-      "food"
+      "food",
+      "many"
     ]
   },
   "dmhk-ev-056": {
@@ -709,7 +745,8 @@
     },
     "tags": [
       "cooking",
-      "wearable"
+      "wearable",
+      "dirty"
     ]
   },
   "dmhk-ev-059": {
@@ -733,7 +770,9 @@
     },
     "tags": [
       "holdable",
-      "stain"
+      "stain",
+      "writing",
+      "child"
     ]
   },
   "dmhk-ev-061": {
@@ -796,7 +835,8 @@
     },
     "tags": [
       "wearable",
-      "personal"
+      "personal",
+      "time"
     ]
   },
   "dmhk-ev-066": {
@@ -858,7 +898,8 @@
     },
     "tags": [
       "paper",
-      "personal"
+      "personal",
+      "reading"
     ]
   },
   "dmhk-ev-071": {
@@ -869,7 +910,8 @@
       "pt": "cesto"
     },
     "tags": [
-      "object"
+      "object",
+      "container"
     ]
   },
   "dmhk-ev-072": {
@@ -895,7 +937,8 @@
     },
     "tags": [
       "child",
-      "small"
+      "small",
+      "game"
     ]
   },
   "dmhk-ev-074": {
@@ -919,7 +962,8 @@
     },
     "tags": [
       "paper",
-      "personal"
+      "personal",
+      "writing"
     ]
   },
   "dmhk-ev-076": {
@@ -931,7 +975,8 @@
     },
     "tags": [
       "carry",
-      "personal"
+      "personal",
+      "leisure"
     ]
   },
   "dmhk-ev-077": {
@@ -956,7 +1001,8 @@
     },
     "tags": [
       "drink",
-      "holdable"
+      "holdable",
+      "warm"
     ]
   },
   "dmhk-ev-079": {
@@ -979,7 +1025,8 @@
       "pt": "capa de chuva"
     },
     "tags": [
-      "wearable"
+      "wearable",
+      "wet"
     ]
   },
   "dmhk-ev-081": {
@@ -990,7 +1037,9 @@
       "pt": "calendário"
     },
     "tags": [
-      "paper"
+      "paper",
+      "reading",
+      "time"
     ]
   },
   "dmhk-ev-082": {
@@ -1028,7 +1077,10 @@
     },
     "tags": [
       "paper",
-      "personal"
+      "personal",
+      "reading",
+      "writing",
+      "feelings"
     ]
   },
   "dmhk-ev-085": {
@@ -1039,7 +1091,8 @@
       "pt": "miçangas"
     },
     "tags": [
-      "wearable"
+      "wearable",
+      "female"
     ]
   },
   "dmhk-ev-086": {
@@ -1051,7 +1104,8 @@
     },
     "tags": [
       "metal",
-      "object"
+      "object",
+      "work"
     ]
   },
   "dmhk-ev-087": {
@@ -1073,7 +1127,8 @@
       "pt": "monóculo"
     },
     "tags": [
-      "wearable"
+      "wearable",
+      "old"
     ]
   },
   "dmhk-ev-089": {
@@ -1096,7 +1151,8 @@
       "pt": "novelo"
     },
     "tags": [
-      "fabric"
+      "fabric",
+      "old"
     ]
   },
   "dmhk-ev-091": {
@@ -1108,7 +1164,8 @@
     },
     "tags": [
       "powder",
-      "fragile"
+      "fragile",
+      "old"
     ]
   },
   "dmhk-ev-092": {
@@ -1120,7 +1177,8 @@
     },
     "tags": [
       "head",
-      "metal"
+      "metal",
+      "female"
     ]
   },
   "dmhk-ev-093": {
@@ -1154,7 +1212,8 @@
       "pt": "roupão"
     },
     "tags": [
-      "wearable"
+      "wearable",
+      "personal"
     ]
   },
   "dmhk-ev-096": {
@@ -1208,7 +1267,8 @@
     "tags": [
       "metal",
       "hard",
-      "holdable"
+      "holdable",
+      "building"
     ]
   },
   "dmhk-ev-100": {
@@ -1232,7 +1292,8 @@
     },
     "tags": [
       "child",
-      "holdable"
+      "holdable",
+      "leisure"
     ]
   },
   "dmhk-ev-102": {
@@ -1257,8 +1318,8 @@
       "pt": "caixa de papelão"
     },
     "tags": [
-      "object",
-      "paper"
+      "paper",
+      "container"
     ]
   },
   "dmhk-ev-104": {
@@ -1270,7 +1331,8 @@
     },
     "tags": [
       "stain",
-      "liquid"
+      "liquid",
+      "old"
     ]
   },
   "dmhk-ev-105": {
@@ -1296,7 +1358,8 @@
       "pt": "guarda-chuva"
     },
     "tags": [
-      "holdable"
+      "holdable",
+      "wet"
     ]
   },
   "dmhk-ev-107": {
@@ -1333,7 +1396,8 @@
     "tags": [
       "wearable",
       "metal",
-      "wealth"
+      "wealth",
+      "female"
     ]
   },
   "dmhk-ev-110": {
@@ -1394,7 +1458,8 @@
     "tags": [
       "organic",
       "object",
-      "holdable"
+      "holdable",
+      "head"
     ]
   },
   "dmhk-ev-115": {
@@ -1405,7 +1470,8 @@
       "pt": "mola"
     },
     "tags": [
-      "metal"
+      "metal",
+      "machine"
     ]
   },
   "dmhk-ev-116": {
@@ -1488,8 +1554,8 @@
     },
     "tags": [
       "tool",
-      "stain",
-      "work"
+      "work",
+      "writing"
     ]
   },
   "dmhk-ev-123": {
@@ -1516,7 +1582,8 @@
     "tags": [
       "child",
       "personal",
-      "wearable"
+      "wearable",
+      "old"
     ]
   },
   "dmhk-ev-125": {
@@ -1567,7 +1634,8 @@
     "tags": [
       "paper",
       "personal",
-      "reading"
+      "reading",
+      "writing"
     ]
   },
   "dmhk-ev-129": {
@@ -1580,7 +1648,8 @@
     "tags": [
       "personal",
       "organic",
-      "head"
+      "head",
+      "fur"
     ]
   },
   "dmhk-ev-130": {
@@ -1644,7 +1713,8 @@
     "tags": [
       "child",
       "holdable",
-      "small"
+      "small",
+      "game"
     ]
   },
   "dmhk-ev-135": {
@@ -1682,7 +1752,8 @@
     "tags": [
       "metal",
       "tool",
-      "small"
+      "small",
+      "machine"
     ]
   },
   "dmhk-ev-138": {
@@ -1709,7 +1780,9 @@
       "wearable",
       "personal",
       "wealth",
-      "metal"
+      "metal",
+      "female",
+      "cord"
     ]
   },
   "dmhk-ev-140": {
@@ -1721,7 +1794,8 @@
     },
     "tags": [
       "personal",
-      "carry"
+      "carry",
+      "child"
     ]
   },
   "dmhk-ev-141": {
@@ -1735,7 +1809,8 @@
       "small",
       "fabric",
       "metal",
-      "holdable"
+      "holdable",
+      "old"
     ]
   },
   "dmhk-ev-142": {
@@ -1748,7 +1823,9 @@
     "tags": [
       "electronic",
       "paper",
-      "sound"
+      "sound",
+      "old",
+      "work"
     ]
   },
   "dmhk-ev-143": {
@@ -1800,7 +1877,8 @@
     "tags": [
       "child",
       "small",
-      "metal"
+      "metal",
+      "sting"
     ]
   },
   "dmhk-ev-147": {
@@ -1839,7 +1917,9 @@
       "pt": "câmera de segurança"
     },
     "tags": [
-      "electronic"
+      "electronic",
+      "virtual",
+      "object"
     ]
   },
   "dmhk-ev-150": {
@@ -1924,7 +2004,8 @@
     },
     "tags": [
       "metal",
-      "tool"
+      "tool",
+      "outdoors"
     ]
   },
   "dmhk-ev-157": {
@@ -1935,7 +2016,8 @@
       "pt": "distintivo"
     },
     "tags": [
-      "metal"
+      "metal",
+      "power"
     ]
   },
   "dmhk-ev-158": {
@@ -1961,7 +2043,10 @@
     "tags": [
       "metal",
       "cord",
-      "holdable"
+      "holdable",
+      "sport",
+      "outdoors",
+      "wet"
     ]
   },
   "dmhk-ev-160": {
@@ -1972,7 +2057,8 @@
       "pt": "impressão digital"
     },
     "tags": [
-      "touch"
+      "touch",
+      "personal"
     ]
   },
   "dmhk-ev-161": {
@@ -1997,7 +2083,8 @@
     "tags": [
       "wealth",
       "wearable",
-      "head"
+      "head",
+      "female"
     ]
   },
   "dmhk-ev-163": {
@@ -2059,9 +2146,9 @@
       "pt": "fichas de aposta"
     },
     "tags": [
-      "game",
       "small",
-      "wealth"
+      "wealth",
+      "game"
     ]
   },
   "dmhk-ev-168": {
@@ -2110,7 +2197,8 @@
       "pt": "pichação"
     },
     "tags": [
-      "stain"
+      "stain",
+      "outdoors"
     ]
   },
   "dmhk-ev-172": {
@@ -2135,7 +2223,8 @@
       "pt": "sabonete"
     },
     "tags": [
-      "personal"
+      "personal",
+      "wet"
     ]
   },
   "dmhk-ev-174": {
@@ -2145,7 +2234,10 @@
       "en": "numbers",
       "pt": "números"
     },
-    "tags": []
+    "tags": [
+      "writing",
+      "idea"
+    ]
   },
   "dmhk-ev-175": {
     "id": "dmhk-ev-175",
@@ -2279,7 +2371,8 @@
     },
     "tags": [
       "child",
-      "holdable"
+      "holdable",
+      "leisure"
     ]
   },
   "dmhk-ev-186": {
@@ -2352,7 +2445,8 @@
     },
     "tags": [
       "personal",
-      "idea"
+      "idea",
+      "virtual"
     ]
   },
   "dmhk-ev-192": {
@@ -2363,7 +2457,8 @@
       "pt": "cortinas"
     },
     "tags": [
-      "fabric"
+      "fabric",
+      "home"
     ]
   },
   "dmhk-ev-193": {
@@ -2374,7 +2469,9 @@
       "pt": "ventilador"
     },
     "tags": [
-      "electronic"
+      "electronic",
+      "building",
+      "home"
     ]
   },
   "dmhk-ev-194": {
@@ -2386,8 +2483,8 @@
     },
     "tags": [
       "metal",
-      "tool",
-      "small"
+      "small",
+      "machine"
     ]
   },
   "dmhk-ev-195": {
@@ -2424,7 +2521,8 @@
       "pt": "circuito elétrico"
     },
     "tags": [
-      "electronic"
+      "electronic",
+      "machine"
     ]
   },
   "dmhk-ev-198": {
@@ -2436,7 +2534,9 @@
     },
     "tags": [
       "dirty",
-      "inhaleable"
+      "inhaleable",
+      "building",
+      "home"
     ]
   },
   "dmhk-ev-199": {
@@ -2447,7 +2547,8 @@
       "pt": "website"
     },
     "tags": [
-      "virtual"
+      "virtual",
+      "reading"
     ]
   },
   "dmhk-ev-200": {
@@ -2458,7 +2559,8 @@
       "pt": "tinta"
     },
     "tags": [
-      "stain"
+      "stain",
+      "art"
     ]
   }
 }

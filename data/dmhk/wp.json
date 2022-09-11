@@ -471,7 +471,8 @@
         },
         "tags": [
             "ingestible",
-            "drug"
+            "drug",
+            "medical"
         ]
     },
     "dmhk-wp-038": {
@@ -673,7 +674,8 @@
         },
         "tags": [
             "action",
-            "accident"
+            "accident",
+            "medical"
         ]
     },
     "dmhk-wp-054": {
