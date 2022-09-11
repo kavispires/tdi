@@ -375,7 +375,11 @@
       "pt": "dicionário",
       "en": "dictionary"
     },
-    "tags": []
+    "tags": [
+      "reading",
+      "paper",
+      "holdable"
+    ]
   },
   "dmhk-ev-032": {
     "id": "dmhk-ev-032",
@@ -384,7 +388,13 @@
       "pt": "tapete de ioga",
       "en": "yoga mat"
     },
-    "tags": []
+    "tags": [
+      "flexible",
+      "personal",
+      "holdable",
+      "sport",
+      "steppable"
+    ]
   },
   "dmhk-ev-033": {
     "id": "dmhk-ev-033",
@@ -393,7 +403,10 @@
       "pt": "gato",
       "en": "cat"
     },
-    "tags": []
+    "tags": [
+      "animal",
+      "fur"
+    ]
   },
   "dmhk-ev-034": {
     "id": "dmhk-ev-034",
@@ -402,7 +415,11 @@
       "pt": "rosa",
       "en": "rose"
     },
-    "tags": []
+    "tags": [
+      "plant",
+      "thorn",
+      "holdable"
+    ]
   },
   "dmhk-ev-035": {
     "id": "dmhk-ev-035",
@@ -473,7 +490,10 @@
       "pt": "caneta",
       "en": "pen"
     },
-    "tags": []
+    "tags": [
+      "stain",
+      "holdable"
+    ]
   },
   "dmhk-ev-041": {
     "id": "dmhk-ev-041",
@@ -508,7 +528,8 @@
       "en": "sombrero"
     },
     "tags": [
-      "wearable"
+      "wearable",
+      "head"
     ]
   },
   "dmhk-ev-044": {
@@ -556,7 +577,10 @@
       "pt": "tomada",
       "en": "plug"
     },
-    "tags": []
+    "tags": [
+      "electronic",
+      "cord"
+    ]
   },
   "dmhk-ev-048": {
     "id": "dmhk-ev-048",
@@ -565,7 +589,11 @@
       "pt": "caixa de ferramentas",
       "en": "tool box"
     },
-    "tags": []
+    "tags": [
+      "tool",
+      "object",
+      "utensils"
+    ]
   },
   "dmhk-ev-049": {
     "id": "dmhk-ev-049",
@@ -574,7 +602,10 @@
       "pt": "talão de cheques",
       "en": "cheque book"
     },
-    "tags": []
+    "tags": [
+      "paper",
+      "wealth"
+    ]
   },
   "dmhk-ev-050": {
     "id": "dmhk-ev-050",
@@ -663,7 +694,11 @@
       "pt": "parafuso",
       "en": "bolt"
     },
-    "tags": []
+    "tags": [
+      "metal",
+      "small",
+      "tool"
+    ]
   },
   "dmhk-ev-058": {
     "id": "dmhk-ev-058",
@@ -684,7 +719,10 @@
       "pt": "munição",
       "en": "ammo"
     },
-    "tags": []
+    "tags": [
+      "small",
+      "firearm"
+    ]
   },
   "dmhk-ev-060": {
     "id": "dmhk-ev-060",
@@ -743,7 +781,11 @@
       "pt": "carteira",
       "en": "wallet"
     },
-    "tags": []
+    "tags": [
+      "wealth",
+      "personal",
+      "holdable"
+    ]
   },
   "dmhk-ev-065": {
     "id": "dmhk-ev-065",
@@ -752,7 +794,10 @@
       "pt": "relógio de pulso",
       "en": "watch"
     },
-    "tags": []
+    "tags": [
+      "wearable",
+      "personal"
+    ]
   },
   "dmhk-ev-066": {
     "id": "dmhk-ev-066",
@@ -761,7 +806,11 @@
       "en": "detergent",
       "pt": "detergente"
     },
-    "tags": []
+    "tags": [
+      "liquid",
+      "plastic",
+      "smell"
+    ]
   },
   "dmhk-ev-067": {
     "id": "dmhk-ev-067",
@@ -770,7 +819,10 @@
       "en": "doll",
       "pt": "boneca"
     },
-    "tags": []
+    "tags": [
+      "child",
+      "small"
+    ]
   },
   "dmhk-ev-068": {
     "id": "dmhk-ev-068",
@@ -779,7 +831,11 @@
       "en": "eyeliner",
       "pt": "delineador"
     },
-    "tags": []
+    "tags": [
+      "stain",
+      "personal",
+      "holdable"
+    ]
   },
   "dmhk-ev-069": {
     "id": "dmhk-ev-069",
@@ -788,7 +844,10 @@
       "en": "gum",
       "pt": "chiclete"
     },
-    "tags": []
+    "tags": [
+      "ingestible",
+      "mouth-on"
+    ]
   },
   "dmhk-ev-070": {
     "id": "dmhk-ev-070",
@@ -797,7 +856,10 @@
       "en": "mail",
       "pt": "correspondências"
     },
-    "tags": []
+    "tags": [
+      "paper",
+      "personal"
+    ]
   },
   "dmhk-ev-071": {
     "id": "dmhk-ev-071",
@@ -806,7 +868,9 @@
       "en": "basket",
       "pt": "cesto"
     },
-    "tags": []
+    "tags": [
+      "object"
+    ]
   },
   "dmhk-ev-072": {
     "id": "dmhk-ev-072",
@@ -815,7 +879,12 @@
       "en": "olive oil",
       "pt": "azeite"
     },
-    "tags": []
+    "tags": [
+      "liquid",
+      "cooking",
+      "ingestible",
+      "food"
+    ]
   },
   "dmhk-ev-073": {
     "id": "dmhk-ev-073",
@@ -824,7 +893,10 @@
       "en": "puzzle",
       "pt": "quebra-cabeças"
     },
-    "tags": []
+    "tags": [
+      "child",
+      "small"
+    ]
   },
   "dmhk-ev-074": {
     "id": "dmhk-ev-074",
@@ -833,7 +905,10 @@
       "en": "flag",
       "pt": "bandeira"
     },
-    "tags": []
+    "tags": [
+      "fabric",
+      "holdable"
+    ]
   },
   "dmhk-ev-075": {
     "id": "dmhk-ev-075",
@@ -842,7 +917,10 @@
       "en": "signature",
       "pt": "assinatura"
     },
-    "tags": []
+    "tags": [
+      "paper",
+      "personal"
+    ]
   },
   "dmhk-ev-076": {
     "id": "dmhk-ev-076",
@@ -851,7 +929,10 @@
       "en": "suitcase",
       "pt": "bagagem"
     },
-    "tags": []
+    "tags": [
+      "carry",
+      "personal"
+    ]
   },
   "dmhk-ev-077": {
     "id": "dmhk-ev-077",
@@ -860,7 +941,11 @@
       "en": "swimsuit",
       "pt": "bikini"
     },
-    "tags": []
+    "tags": [
+      "personal",
+      "wearable",
+      "female"
+    ]
   },
   "dmhk-ev-078": {
     "id": "dmhk-ev-078",
@@ -869,7 +954,10 @@
       "en": "coffee",
       "pt": "café"
     },
-    "tags": []
+    "tags": [
+      "drink",
+      "holdable"
+    ]
   },
   "dmhk-ev-079": {
     "id": "dmhk-ev-079",
@@ -878,7 +966,10 @@
       "en": "vegetables",
       "pt": "vegetais"
     },
-    "tags": []
+    "tags": [
+      "food",
+      "organic"
+    ]
   },
   "dmhk-ev-080": {
     "id": "dmhk-ev-080",
@@ -887,7 +978,9 @@
       "en": "raincoat",
       "pt": "capa de chuva"
     },
-    "tags": []
+    "tags": [
+      "wearable"
+    ]
   },
   "dmhk-ev-081": {
     "id": "dmhk-ev-081",
@@ -896,7 +989,9 @@
       "en": "calendar",
       "pt": "calendário"
     },
-    "tags": []
+    "tags": [
+      "paper"
+    ]
   },
   "dmhk-ev-082": {
     "id": "dmhk-ev-082",
@@ -905,7 +1000,11 @@
       "en": "cigar",
       "pt": "charuto"
     },
-    "tags": []
+    "tags": [
+      "mouth-on",
+      "warm",
+      "ash"
+    ]
   },
   "dmhk-ev-083": {
     "id": "dmhk-ev-083",
@@ -914,7 +1013,11 @@
       "en": "tiara",
       "pt": "tiara"
     },
-    "tags": []
+    "tags": [
+      "head",
+      "wealth",
+      "wearable"
+    ]
   },
   "dmhk-ev-084": {
     "id": "dmhk-ev-084",
@@ -923,7 +1026,10 @@
       "en": "journal",
       "pt": "diário"
     },
-    "tags": []
+    "tags": [
+      "paper",
+      "personal"
+    ]
   },
   "dmhk-ev-085": {
     "id": "dmhk-ev-085",
@@ -932,7 +1038,9 @@
       "en": "beads",
       "pt": "miçangas"
     },
-    "tags": []
+    "tags": [
+      "wearable"
+    ]
   },
   "dmhk-ev-086": {
     "id": "dmhk-ev-086",
@@ -941,7 +1049,10 @@
       "en": "tripod",
       "pt": "tripé"
     },
-    "tags": []
+    "tags": [
+      "metal",
+      "object"
+    ]
   },
   "dmhk-ev-087": {
     "id": "dmhk-ev-087",
@@ -950,7 +1061,9 @@
       "en": "pants",
       "pt": "calças"
     },
-    "tags": []
+    "tags": [
+      "wearable"
+    ]
   },
   "dmhk-ev-088": {
     "id": "dmhk-ev-088",
@@ -959,7 +1072,9 @@
       "en": "monocle",
       "pt": "monóculo"
     },
-    "tags": []
+    "tags": [
+      "wearable"
+    ]
   },
   "dmhk-ev-089": {
     "id": "dmhk-ev-089",
@@ -968,7 +1083,10 @@
       "en": "bell",
       "pt": "sino"
     },
-    "tags": []
+    "tags": [
+      "sound",
+      "holdable"
+    ]
   },
   "dmhk-ev-090": {
     "id": "dmhk-ev-090",
@@ -977,7 +1095,9 @@
       "en": "yarn",
       "pt": "novelo"
     },
-    "tags": []
+    "tags": [
+      "fabric"
+    ]
   },
   "dmhk-ev-091": {
     "id": "dmhk-ev-091",
@@ -986,7 +1106,10 @@
       "en": "urn",
       "pt": "urna funerária"
     },
-    "tags": []
+    "tags": [
+      "powder",
+      "fragile"
+    ]
   },
   "dmhk-ev-092": {
     "id": "dmhk-ev-092",
@@ -995,7 +1118,10 @@
       "en": "hairpin",
       "pt": "grampo"
     },
-    "tags": []
+    "tags": [
+      "head",
+      "metal"
+    ]
   },
   "dmhk-ev-093": {
     "id": "dmhk-ev-093",
@@ -1004,7 +1130,9 @@
       "en": "gloves",
       "pt": "luvas"
     },
-    "tags": []
+    "tags": [
+      "wearable"
+    ]
   },
   "dmhk-ev-094": {
     "id": "dmhk-ev-094",
@@ -1013,7 +1141,10 @@
       "en": "hat",
       "pt": "chapéu"
     },
-    "tags": []
+    "tags": [
+      "head",
+      "wearable"
+    ]
   },
   "dmhk-ev-095": {
     "id": "dmhk-ev-095",
@@ -1022,7 +1153,9 @@
       "en": "robe",
       "pt": "roupão"
     },
-    "tags": []
+    "tags": [
+      "wearable"
+    ]
   },
   "dmhk-ev-096": {
     "id": "dmhk-ev-096",
@@ -1031,7 +1164,12 @@
       "en": "cassete tape",
       "pt": "fita cassete"
     },
-    "tags": []
+    "tags": [
+      "sound",
+      "small",
+      "object",
+      "holdable"
+    ]
   },
   "dmhk-ev-097": {
     "id": "dmhk-ev-097",
@@ -1040,7 +1178,12 @@
       "en": "salt",
       "pt": "sal"
     },
-    "tags": []
+    "tags": [
+      "cooking",
+      "powder",
+      "eating",
+      "holdable"
+    ]
   },
   "dmhk-ev-098": {
     "id": "dmhk-ev-098",
@@ -1049,7 +1192,11 @@
       "en": "ash tray",
       "pt": "cinzeiro"
     },
-    "tags": []
+    "tags": [
+      "ash",
+      "object",
+      "holdable"
+    ]
   },
   "dmhk-ev-099": {
     "id": "dmhk-ev-099",
@@ -1058,7 +1205,11 @@
       "en": "lock",
       "pt": "cadeado"
     },
-    "tags": []
+    "tags": [
+      "metal",
+      "hard",
+      "holdable"
+    ]
   },
   "dmhk-ev-100": {
     "id": "dmhk-ev-100",
@@ -1067,7 +1218,10 @@
       "en": "peanut",
       "pt": "amendoim"
     },
-    "tags": []
+    "tags": [
+      "food",
+      "ingestible"
+    ]
   },
   "dmhk-ev-101": {
     "id": "dmhk-ev-101",
@@ -1076,7 +1230,10 @@
       "en": "toy",
       "pt": "brinquedo"
     },
-    "tags": []
+    "tags": [
+      "child",
+      "holdable"
+    ]
   },
   "dmhk-ev-102": {
     "id": "dmhk-ev-102",
@@ -1085,7 +1242,12 @@
       "en": "coins",
       "pt": "moedas"
     },
-    "tags": []
+    "tags": [
+      "metal",
+      "wealth",
+      "holdable",
+      "small"
+    ]
   },
   "dmhk-ev-103": {
     "id": "dmhk-ev-103",
@@ -1094,7 +1256,10 @@
       "en": "carton",
       "pt": "caixa de papelão"
     },
-    "tags": []
+    "tags": [
+      "object",
+      "paper"
+    ]
   },
   "dmhk-ev-104": {
     "id": "dmhk-ev-104",
@@ -1103,7 +1268,10 @@
       "en": "ink",
       "pt": "tinta"
     },
-    "tags": []
+    "tags": [
+      "stain",
+      "liquid"
+    ]
   },
   "dmhk-ev-105": {
     "id": "dmhk-ev-105",
@@ -1112,7 +1280,13 @@
       "en": "food ingredients",
       "pt": "ingredientes culinários"
     },
-    "tags": []
+    "tags": [
+      "cooking",
+      "food",
+      "ingestible",
+      "eating",
+      "holdable"
+    ]
   },
   "dmhk-ev-106": {
     "id": "dmhk-ev-106",
@@ -1121,7 +1295,9 @@
       "en": "umbrella",
       "pt": "guarda-chuva"
     },
-    "tags": []
+    "tags": [
+      "holdable"
+    ]
   },
   "dmhk-ev-107": {
     "id": "dmhk-ev-107",
@@ -1130,7 +1306,10 @@
       "en": "castanets",
       "pt": "castanholas"
     },
-    "tags": []
+    "tags": [
+      "sound",
+      "holdable"
+    ]
   },
   "dmhk-ev-108": {
     "id": "dmhk-ev-108",
@@ -1139,7 +1318,10 @@
       "en": "dragon fruit",
       "pt": "pitaia"
     },
-    "tags": []
+    "tags": [
+      "food",
+      "holdable"
+    ]
   },
   "dmhk-ev-109": {
     "id": "dmhk-ev-109",
@@ -1148,7 +1330,11 @@
       "en": "bracelet",
       "pt": "bracelete"
     },
-    "tags": []
+    "tags": [
+      "wearable",
+      "metal",
+      "wealth"
+    ]
   },
   "dmhk-ev-110": {
     "id": "dmhk-ev-110",
@@ -1157,7 +1343,9 @@
       "en": "maze",
       "pt": "labirinto"
     },
-    "tags": []
+    "tags": [
+      "child"
+    ]
   },
   "dmhk-ev-111": {
     "id": "dmhk-ev-111",
@@ -1166,7 +1354,11 @@
       "en": "cotton",
       "pt": "algodão"
     },
-    "tags": []
+    "tags": [
+      "fabric",
+      "soft",
+      "holdable"
+    ]
   },
   "dmhk-ev-112": {
     "id": "dmhk-ev-112",
@@ -1175,7 +1367,10 @@
       "en": "light bulb",
       "pt": "lâmpada"
     },
-    "tags": []
+    "tags": [
+      "electricity",
+      "bright"
+    ]
   },
   "dmhk-ev-113": {
     "id": "dmhk-ev-113",
@@ -1184,7 +1379,10 @@
       "en": "carnival mask",
       "pt": "máscara de carnaval"
     },
-    "tags": []
+    "tags": [
+      "wearable",
+      "face"
+    ]
   },
   "dmhk-ev-114": {
     "id": "dmhk-ev-114",
@@ -1193,7 +1391,11 @@
       "en": "skull",
       "pt": "caveira"
     },
-    "tags": []
+    "tags": [
+      "organic",
+      "object",
+      "holdable"
+    ]
   },
   "dmhk-ev-115": {
     "id": "dmhk-ev-115",
@@ -1202,7 +1404,9 @@
       "en": "spring",
       "pt": "mola"
     },
-    "tags": []
+    "tags": [
+      "metal"
+    ]
   },
   "dmhk-ev-116": {
     "id": "dmhk-ev-116",
@@ -1211,7 +1415,9 @@
       "en": "powder",
       "pt": "pó"
     },
-    "tags": []
+    "tags": [
+      "powder"
+    ]
   },
   "dmhk-ev-117": {
     "id": "dmhk-ev-117",
@@ -1220,7 +1426,10 @@
       "en": "violin",
       "pt": "violino"
     },
-    "tags": []
+    "tags": [
+      "sound",
+      "holdable"
+    ]
   },
   "dmhk-ev-118": {
     "id": "dmhk-ev-118",
@@ -1229,7 +1438,10 @@
       "en": "uniform",
       "pt": "uniforme"
     },
-    "tags": []
+    "tags": [
+      "wearable",
+      "child"
+    ]
   },
   "dmhk-ev-119": {
     "id": "dmhk-ev-119",
@@ -1238,7 +1450,9 @@
       "en": "instant noodles",
       "pt": "miojo"
     },
-    "tags": []
+    "tags": [
+      "food"
+    ]
   },
   "dmhk-ev-120": {
     "id": "dmhk-ev-120",
@@ -1247,7 +1461,10 @@
       "en": "chopsticks",
       "pt": "pauzinhos"
     },
-    "tags": []
+    "tags": [
+      "eating",
+      "utensils"
+    ]
   },
   "dmhk-ev-121": {
     "id": "dmhk-ev-121",
@@ -1256,7 +1473,11 @@
       "en": "iron",
       "pt": "ferro"
     },
-    "tags": []
+    "tags": [
+      "metal",
+      "heavy",
+      "holdable"
+    ]
   },
   "dmhk-ev-122": {
     "id": "dmhk-ev-122",
@@ -1265,7 +1486,11 @@
       "en": "office supplies",
       "pt": "material de escritório"
     },
-    "tags": []
+    "tags": [
+      "tool",
+      "stain",
+      "work"
+    ]
   },
   "dmhk-ev-123": {
     "id": "dmhk-ev-123",
@@ -1274,7 +1499,12 @@
       "en": "eggs",
       "pt": "ovos"
     },
-    "tags": []
+    "tags": [
+      "cooking",
+      "animal",
+      "holdable",
+      "fragile"
+    ]
   },
   "dmhk-ev-124": {
     "id": "dmhk-ev-124",
@@ -1283,7 +1513,11 @@
       "en": "diaper",
       "pt": "fralda"
     },
-    "tags": []
+    "tags": [
+      "child",
+      "personal",
+      "wearable"
+    ]
   },
   "dmhk-ev-125": {
     "id": "dmhk-ev-125",
@@ -1292,7 +1526,11 @@
       "en": "candy",
       "pt": "pirulito"
     },
-    "tags": []
+    "tags": [
+      "food",
+      "child",
+      "holdable"
+    ]
   },
   "dmhk-ev-126": {
     "id": "dmhk-ev-126",
@@ -1301,7 +1539,11 @@
       "en": "cigarette butt",
       "pt": ""
     },
-    "tags": []
+    "tags": [
+      "ash",
+      "mouth-on",
+      "personal"
+    ]
   },
   "dmhk-ev-127": {
     "id": "dmhk-ev-127",
@@ -1310,7 +1552,10 @@
       "en": "telephone",
       "pt": "telefone"
     },
-    "tags": []
+    "tags": [
+      "electronic",
+      "sound"
+    ]
   },
   "dmhk-ev-128": {
     "id": "dmhk-ev-128",
@@ -1319,7 +1564,11 @@
       "en": "diary",
       "pt": "diário"
     },
-    "tags": []
+    "tags": [
+      "paper",
+      "personal",
+      "reading"
+    ]
   },
   "dmhk-ev-129": {
     "id": "dmhk-ev-129",
@@ -1328,7 +1577,11 @@
       "en": "hair",
       "pt": "cabelo"
     },
-    "tags": []
+    "tags": [
+      "personal",
+      "organic",
+      "head"
+    ]
   },
   "dmhk-ev-130": {
     "id": "dmhk-ev-130",
@@ -1337,7 +1590,11 @@
       "en": "flute",
       "pt": "flauta"
     },
-    "tags": []
+    "tags": [
+      "sound",
+      "mouth-on",
+      "holdable"
+    ]
   },
   "dmhk-ev-131": {
     "id": "dmhk-ev-131",
@@ -1346,7 +1603,10 @@
       "en": "broom",
       "pt": "vassoura"
     },
-    "tags": []
+    "tags": [
+      "holdable",
+      "tool"
+    ]
   },
   "dmhk-ev-132": {
     "id": "dmhk-ev-132",
@@ -1355,7 +1615,11 @@
       "en": "key",
       "pt": "chave"
     },
-    "tags": []
+    "tags": [
+      "metal",
+      "small",
+      "holdable"
+    ]
   },
   "dmhk-ev-133": {
     "id": "dmhk-ev-133",
@@ -1364,7 +1628,11 @@
       "en": "juice",
       "pt": "suco"
     },
-    "tags": []
+    "tags": [
+      "drink",
+      "ingestible",
+      "glass"
+    ]
   },
   "dmhk-ev-134": {
     "id": "dmhk-ev-134",
@@ -1373,7 +1641,11 @@
       "en": "dice",
       "pt": "dados"
     },
-    "tags": []
+    "tags": [
+      "child",
+      "holdable",
+      "small"
+    ]
   },
   "dmhk-ev-135": {
     "id": "dmhk-ev-135",
@@ -1382,7 +1654,11 @@
       "en": "blood",
       "pt": "sangue"
     },
-    "tags": []
+    "tags": [
+      "stain",
+      "organic",
+      "personal"
+    ]
   },
   "dmhk-ev-136": {
     "id": "dmhk-ev-136",
@@ -1391,16 +1667,23 @@
       "en": "dog fur",
       "pt": "pelo de cachorro"
     },
-    "tags": []
+    "tags": [
+      "fur",
+      "small"
+    ]
   },
   "dmhk-ev-137": {
     "id": "dmhk-ev-137",
     "type": "evidence",
     "name": {
       "en": "nail",
-      "pt": "unha"
+      "pt": "prego"
     },
-    "tags": []
+    "tags": [
+      "metal",
+      "tool",
+      "small"
+    ]
   },
   "dmhk-ev-138": {
     "id": "dmhk-ev-138",
@@ -1409,7 +1692,11 @@
       "en": "book",
       "pt": "livro"
     },
-    "tags": []
+    "tags": [
+      "reading",
+      "paper",
+      "holdable"
+    ]
   },
   "dmhk-ev-139": {
     "id": "dmhk-ev-139",
@@ -1418,7 +1705,12 @@
       "en": "necklace",
       "pt": "colar"
     },
-    "tags": []
+    "tags": [
+      "wearable",
+      "personal",
+      "wealth",
+      "metal"
+    ]
   },
   "dmhk-ev-140": {
     "id": "dmhk-ev-140",
@@ -1427,7 +1719,10 @@
       "en": "backpack",
       "pt": "mochila"
     },
-    "tags": []
+    "tags": [
+      "personal",
+      "carry"
+    ]
   },
   "dmhk-ev-141": {
     "id": "dmhk-ev-141",
@@ -1436,7 +1731,12 @@
       "en": "needle and thread",
       "pt": "agulha e linha"
     },
-    "tags": []
+    "tags": [
+      "small",
+      "fabric",
+      "metal",
+      "holdable"
+    ]
   },
   "dmhk-ev-142": {
     "id": "dmhk-ev-142",
@@ -1445,7 +1745,11 @@
       "en": "fax",
       "pt": "fax"
     },
-    "tags": []
+    "tags": [
+      "electronic",
+      "paper",
+      "sound"
+    ]
   },
   "dmhk-ev-143": {
     "id": "dmhk-ev-143",
@@ -1454,7 +1758,10 @@
       "en": "internet cable",
       "pt": "cabo de rede"
     },
-    "tags": []
+    "tags": [
+      "electronic",
+      "cord"
+    ]
   },
   "dmhk-ev-144": {
     "id": "dmhk-ev-144",
@@ -1463,7 +1770,11 @@
       "en": "panties",
       "pt": "calcinha"
     },
-    "tags": []
+    "tags": [
+      "personal",
+      "female",
+      "wearable"
+    ]
   },
   "dmhk-ev-145": {
     "id": "dmhk-ev-145",
@@ -1472,7 +1783,12 @@
       "en": "toy blocks",
       "pt": "blocos de brinquedo"
     },
-    "tags": []
+    "tags": [
+      "object",
+      "small",
+      "child",
+      "holdable"
+    ]
   },
   "dmhk-ev-146": {
     "id": "dmhk-ev-146",
@@ -1481,7 +1797,11 @@
       "en": "safety pin",
       "pt": "alfinete"
     },
-    "tags": []
+    "tags": [
+      "child",
+      "small",
+      "metal"
+    ]
   },
   "dmhk-ev-147": {
     "id": "dmhk-ev-147",
@@ -1490,7 +1810,12 @@
       "en": "notebook",
       "pt": "caderno"
     },
-    "tags": []
+    "tags": [
+      "reading",
+      "writing",
+      "paper",
+      "holdable"
+    ]
   },
   "dmhk-ev-148": {
     "id": "dmhk-ev-148",
@@ -1499,7 +1824,12 @@
       "en": "surgical mask",
       "pt": "máscara de cirurgia"
     },
-    "tags": []
+    "tags": [
+      "paper",
+      "wearable",
+      "medical",
+      "face"
+    ]
   },
   "dmhk-ev-149": {
     "id": "dmhk-ev-149",
@@ -1508,7 +1838,9 @@
       "en": "surveillance camera",
       "pt": "câmera de segurança"
     },
-    "tags": []
+    "tags": [
+      "electronic"
+    ]
   },
   "dmhk-ev-150": {
     "id": "dmhk-ev-150",
@@ -1517,7 +1849,10 @@
       "en": "mask",
       "pt": "máscara"
     },
-    "tags": []
+    "tags": [
+      "wearable",
+      "face"
+    ]
   },
   "dmhk-ev-151": {
     "id": "dmhk-ev-151",
@@ -1526,7 +1861,10 @@
       "en": "certificate",
       "pt": "certificado"
     },
-    "tags": []
+    "tags": [
+      "reading",
+      "personal"
+    ]
   },
   "dmhk-ev-152": {
     "id": "dmhk-ev-152",
@@ -1535,7 +1873,11 @@
       "en": "tack",
       "pt": "tachinha"
     },
-    "tags": []
+    "tags": [
+      "sting",
+      "small",
+      "metal"
+    ]
   },
   "dmhk-ev-153": {
     "id": "dmhk-ev-153",
@@ -1544,7 +1886,10 @@
       "en": "film",
       "pt": "filme"
     },
-    "tags": []
+    "tags": [
+      "small",
+      "holdable"
+    ]
   },
   "dmhk-ev-154": {
     "id": "dmhk-ev-154",
@@ -1553,7 +1898,10 @@
       "en": "horseshoe",
       "pt": "ferradura"
     },
-    "tags": []
+    "tags": [
+      "metal",
+      "animal"
+    ]
   },
   "dmhk-ev-155": {
     "id": "dmhk-ev-155",
@@ -1562,7 +1910,10 @@
       "en": "snacks",
       "pt": "lanche"
     },
-    "tags": []
+    "tags": [
+      "food",
+      "child"
+    ]
   },
   "dmhk-ev-156": {
     "id": "dmhk-ev-156",
@@ -1571,7 +1922,10 @@
       "en": "rake",
       "pt": "ancinho"
     },
-    "tags": []
+    "tags": [
+      "metal",
+      "tool"
+    ]
   },
   "dmhk-ev-157": {
     "id": "dmhk-ev-157",
@@ -1580,7 +1934,9 @@
       "en": "badge",
       "pt": "distintivo"
     },
-    "tags": []
+    "tags": [
+      "metal"
+    ]
   },
   "dmhk-ev-158": {
     "id": "dmhk-ev-158",
@@ -1589,7 +1945,11 @@
       "en": "take out",
       "pt": "marmitex"
     },
-    "tags": []
+    "tags": [
+      "plastic",
+      "food",
+      "holdable"
+    ]
   },
   "dmhk-ev-159": {
     "id": "dmhk-ev-159",
@@ -1598,7 +1958,11 @@
       "en": "fishing rod",
       "pt": "vara de pescar"
     },
-    "tags": []
+    "tags": [
+      "metal",
+      "cord",
+      "holdable"
+    ]
   },
   "dmhk-ev-160": {
     "id": "dmhk-ev-160",
@@ -1607,7 +1971,9 @@
       "en": "fingerprint",
       "pt": "impressão digital"
     },
-    "tags": []
+    "tags": [
+      "touch"
+    ]
   },
   "dmhk-ev-161": {
     "id": "dmhk-ev-161",
@@ -1616,7 +1982,10 @@
       "en": "adapter",
       "pt": "adaptador"
     },
-    "tags": []
+    "tags": [
+      "electronic",
+      "metal"
+    ]
   },
   "dmhk-ev-162": {
     "id": "dmhk-ev-162",
@@ -1625,7 +1994,11 @@
       "en": "earrings",
       "pt": "brincos"
     },
-    "tags": []
+    "tags": [
+      "wealth",
+      "wearable",
+      "head"
+    ]
   },
   "dmhk-ev-163": {
     "id": "dmhk-ev-163",
@@ -1634,7 +2007,10 @@
       "en": "feta cheese",
       "pt": "queijo feta"
     },
-    "tags": []
+    "tags": [
+      "food",
+      "soft"
+    ]
   },
   "dmhk-ev-164": {
     "id": "dmhk-ev-164",
@@ -1643,7 +2019,12 @@
       "en": "timber",
       "pt": "madeira"
     },
-    "tags": []
+    "tags": [
+      "organic",
+      "plant",
+      "carry",
+      "large"
+    ]
   },
   "dmhk-ev-165": {
     "id": "dmhk-ev-165",
@@ -1652,7 +2033,11 @@
       "en": "rubber stamp",
       "pt": "carimbo"
     },
-    "tags": []
+    "tags": [
+      "stain",
+      "holdable",
+      "work"
+    ]
   },
   "dmhk-ev-166": {
     "id": "dmhk-ev-166",
@@ -1661,7 +2046,10 @@
       "en": "oil stain",
       "pt": "marca de olho"
     },
-    "tags": []
+    "tags": [
+      "stain",
+      "mineral"
+    ]
   },
   "dmhk-ev-167": {
     "id": "dmhk-ev-167",
@@ -1670,7 +2058,11 @@
       "en": "betting chips",
       "pt": "fichas de aposta"
     },
-    "tags": []
+    "tags": [
+      "game",
+      "small",
+      "wealth"
+    ]
   },
   "dmhk-ev-168": {
     "id": "dmhk-ev-168",
@@ -1679,7 +2071,10 @@
       "en": "flamenco skirt",
       "pt": "saia de flamenco"
     },
-    "tags": []
+    "tags": [
+      "wearable",
+      "female"
+    ]
   },
   "dmhk-ev-169": {
     "id": "dmhk-ev-169",
@@ -1688,7 +2083,12 @@
       "en": "teapot",
       "pt": "bule"
     },
-    "tags": []
+    "tags": [
+      "drink",
+      "container",
+      "holdable",
+      "warm"
+    ]
   },
   "dmhk-ev-170": {
     "id": "dmhk-ev-170",
@@ -1697,7 +2097,10 @@
       "en": "cowboy hat",
       "pt": "chapéu de cowboy"
     },
-    "tags": []
+    "tags": [
+      "head",
+      "wearable"
+    ]
   },
   "dmhk-ev-171": {
     "id": "dmhk-ev-171",
@@ -1706,7 +2109,9 @@
       "en": "graffiti",
       "pt": "pichação"
     },
-    "tags": []
+    "tags": [
+      "stain"
+    ]
   },
   "dmhk-ev-172": {
     "id": "dmhk-ev-172",
@@ -1715,7 +2120,12 @@
       "en": "purse",
       "pt": "bolsa"
     },
-    "tags": []
+    "tags": [
+      "personal",
+      "wealth",
+      "holdable",
+      "female"
+    ]
   },
   "dmhk-ev-173": {
     "id": "dmhk-ev-173",
@@ -1724,7 +2134,9 @@
       "en": "soap",
       "pt": "sabonete"
     },
-    "tags": []
+    "tags": [
+      "personal"
+    ]
   },
   "dmhk-ev-174": {
     "id": "dmhk-ev-174",
@@ -1742,7 +2154,11 @@
       "en": "boot",
       "pt": "bota"
     },
-    "tags": []
+    "tags": [
+      "wearable",
+      "steppable",
+      "personal"
+    ]
   },
   "dmhk-ev-176": {
     "id": "dmhk-ev-176",
@@ -1751,7 +2167,11 @@
       "en": "dog leash",
       "pt": "coleira"
     },
-    "tags": []
+    "tags": [
+      "leather",
+      "cord",
+      "animal"
+    ]
   },
   "dmhk-ev-177": {
     "id": "dmhk-ev-177",
@@ -1760,7 +2180,11 @@
       "en": "bucket",
       "pt": "balde"
     },
-    "tags": []
+    "tags": [
+      "container",
+      "plastic",
+      "carry"
+    ]
   },
   "dmhk-ev-178": {
     "id": "dmhk-ev-178",
@@ -1769,7 +2193,9 @@
       "en": "pizza",
       "pt": "pizza"
     },
-    "tags": []
+    "tags": [
+      "food"
+    ]
   },
   "dmhk-ev-179": {
     "id": "dmhk-ev-179",
@@ -1778,7 +2204,11 @@
       "en": "switch",
       "pt": "interruptor"
     },
-    "tags": []
+    "tags": [
+      "electricity",
+      "touch",
+      "plastic"
+    ]
   },
   "dmhk-ev-180": {
     "id": "dmhk-ev-180",
@@ -1787,7 +2217,11 @@
       "en": "shards of glass",
       "pt": "cacos de vidro"
     },
-    "tags": []
+    "tags": [
+      "glass",
+      "small",
+      "many"
+    ]
   },
   "dmhk-ev-181": {
     "id": "dmhk-ev-181",
@@ -1796,7 +2230,10 @@
       "en": "superhero mask",
       "pt": "máscara de super-herói"
     },
-    "tags": []
+    "tags": [
+      "face",
+      "wearable"
+    ]
   },
   "dmhk-ev-182": {
     "id": "dmhk-ev-182",
@@ -1805,7 +2242,10 @@
       "en": "fabric",
       "pt": "tecido"
     },
-    "tags": []
+    "tags": [
+      "fabric",
+      "soft"
+    ]
   },
   "dmhk-ev-183": {
     "id": "dmhk-ev-183",
@@ -1814,7 +2254,9 @@
       "en": "postal stamp",
       "pt": "selo"
     },
-    "tags": []
+    "tags": [
+      "paper"
+    ]
   },
   "dmhk-ev-184": {
     "id": "dmhk-ev-184",
@@ -1823,7 +2265,10 @@
       "en": "fiber optics",
       "pt": "cabo de fibra óptica"
     },
-    "tags": []
+    "tags": [
+      "electricity",
+      "cord"
+    ]
   },
   "dmhk-ev-185": {
     "id": "dmhk-ev-185",
@@ -1832,7 +2277,10 @@
       "en": "spinning top",
       "pt": "peão"
     },
-    "tags": []
+    "tags": [
+      "child",
+      "holdable"
+    ]
   },
   "dmhk-ev-186": {
     "id": "dmhk-ev-186",
@@ -1841,7 +2289,10 @@
       "en": "hockey mask",
       "pt": "máscara de hockey"
     },
-    "tags": []
+    "tags": [
+      "face",
+      "wearable"
+    ]
   },
   "dmhk-ev-187": {
     "id": "dmhk-ev-187",
@@ -1850,7 +2301,10 @@
       "en": "ghost mask",
       "pt": "máscara do pânico"
     },
-    "tags": []
+    "tags": [
+      "face",
+      "wearable"
+    ]
   },
   "dmhk-ev-188": {
     "id": "dmhk-ev-188",
@@ -1859,7 +2313,10 @@
       "en": "luchador mask",
       "pt": "máscara de luchador"
     },
-    "tags": []
+    "tags": [
+      "face",
+      "wearable"
+    ]
   },
   "dmhk-ev-189": {
     "id": "dmhk-ev-189",
@@ -1868,7 +2325,12 @@
       "en": "fingernails",
       "pt": "unhas"
     },
-    "tags": []
+    "tags": [
+      "personal",
+      "dirty",
+      "small",
+      "many"
+    ]
   },
   "dmhk-ev-190": {
     "id": "dmhk-ev-190",
@@ -1877,7 +2339,9 @@
       "en": "mark",
       "pt": "marca"
     },
-    "tags": []
+    "tags": [
+      "stain"
+    ]
   },
   "dmhk-ev-191": {
     "id": "dmhk-ev-191",
@@ -1886,7 +2350,10 @@
       "en": "password",
       "pt": "senha"
     },
-    "tags": []
+    "tags": [
+      "personal",
+      "idea"
+    ]
   },
   "dmhk-ev-192": {
     "id": "dmhk-ev-192",
@@ -1895,7 +2362,9 @@
       "en": "curtains",
       "pt": "cortinas"
     },
-    "tags": []
+    "tags": [
+      "fabric"
+    ]
   },
   "dmhk-ev-193": {
     "id": "dmhk-ev-193",
@@ -1904,7 +2373,9 @@
       "en": "fan",
       "pt": "ventilador"
     },
-    "tags": []
+    "tags": [
+      "electronic"
+    ]
   },
   "dmhk-ev-194": {
     "id": "dmhk-ev-194",
@@ -1913,7 +2384,11 @@
       "en": "gear",
       "pt": "engrenagem"
     },
-    "tags": []
+    "tags": [
+      "metal",
+      "tool",
+      "small"
+    ]
   },
   "dmhk-ev-195": {
     "id": "dmhk-ev-195",
@@ -1922,7 +2397,12 @@
       "en": "fleas",
       "pt": "pulgas"
     },
-    "tags": []
+    "tags": [
+      "insect",
+      "dirty",
+      "animal",
+      "many"
+    ]
   },
   "dmhk-ev-196": {
     "id": "dmhk-ev-196",
@@ -1931,7 +2411,10 @@
       "en": "insect",
       "pt": "inseto"
     },
-    "tags": []
+    "tags": [
+      "insect",
+      "small"
+    ]
   },
   "dmhk-ev-197": {
     "id": "dmhk-ev-197",
@@ -1940,7 +2423,9 @@
       "en": "electric circuit",
       "pt": "circuito elétrico"
     },
-    "tags": []
+    "tags": [
+      "electronic"
+    ]
   },
   "dmhk-ev-198": {
     "id": "dmhk-ev-198",
@@ -1949,7 +2434,10 @@
       "en": "dust",
       "pt": "poeira"
     },
-    "tags": []
+    "tags": [
+      "dirty",
+      "inhaleable"
+    ]
   },
   "dmhk-ev-199": {
     "id": "dmhk-ev-199",
@@ -1958,7 +2446,9 @@
       "en": "website",
       "pt": "website"
     },
-    "tags": []
+    "tags": [
+      "virtual"
+    ]
   },
   "dmhk-ev-200": {
     "id": "dmhk-ev-200",
@@ -1967,6 +2457,8 @@
       "en": "paint",
       "pt": "tinta"
     },
-    "tags": []
+    "tags": [
+      "stain"
+    ]
   }
 }
