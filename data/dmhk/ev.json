@@ -411,7 +411,10 @@
       "pt": "pão",
       "en": "bread"
     },
-    "tags": []
+    "tags": [
+      "food",
+      "ingestible"
+    ]
   },
   "dmhk-ev-036": {
     "id": "dmhk-ev-036",
@@ -420,7 +423,11 @@
       "pt": "capacete",
       "en": "helmet"
     },
-    "tags": []
+    "tags": [
+      "hard",
+      "wearable",
+      "transport"
+    ]
   },
   "dmhk-ev-037": {
     "id": "dmhk-ev-037",
@@ -429,7 +436,11 @@
       "pt": "tempero",
       "en": "seasoning"
     },
-    "tags": []
+    "tags": [
+      "food",
+      "cooking",
+      "powder"
+    ]
   },
   "dmhk-ev-038": {
     "id": "dmhk-ev-038",
@@ -438,7 +449,10 @@
       "pt": "dentadura",
       "en": "dentures"
     },
-    "tags": []
+    "tags": [
+      "personal",
+      "mouth-on"
+    ]
   },
   "dmhk-ev-039": {
     "id": "dmhk-ev-039",
@@ -447,7 +461,10 @@
       "pt": "guardanapo",
       "en": "napkin"
     },
-    "tags": []
+    "tags": [
+      "fabric",
+      "food"
+    ]
   },
   "dmhk-ev-040": {
     "id": "dmhk-ev-040",
@@ -465,7 +482,11 @@
       "pt": "batom",
       "en": "lipstick"
     },
-    "tags": []
+    "tags": [
+      "mouth-on",
+      "personal",
+      "stain"
+    ]
   },
   "dmhk-ev-042": {
     "id": "dmhk-ev-042",
@@ -474,7 +495,10 @@
       "pt": "ampulheta",
       "en": "hourglass"
     },
-    "tags": []
+    "tags": [
+      "glass",
+      "object"
+    ]
   },
   "dmhk-ev-043": {
     "id": "dmhk-ev-043",
@@ -483,7 +507,9 @@
       "pt": "sombrero",
       "en": "sombrero"
     },
-    "tags": []
+    "tags": [
+      "wearable"
+    ]
   },
   "dmhk-ev-044": {
     "id": "dmhk-ev-044",
@@ -492,7 +518,11 @@
       "pt": "capa de super herói",
       "en": "superhero cape"
     },
-    "tags": []
+    "tags": [
+      "fabric",
+      "wearable",
+      "child"
+    ]
   },
   "dmhk-ev-045": {
     "id": "dmhk-ev-045",
@@ -501,7 +531,10 @@
       "pt": "anel",
       "en": "ring"
     },
-    "tags": []
+    "tags": [
+      "wearable",
+      "small"
+    ]
   },
   "dmhk-ev-046": {
     "id": "dmhk-ev-046",
@@ -510,7 +543,11 @@
       "pt": "siringa",
       "en": "syringe"
     },
-    "tags": []
+    "tags": [
+      "injectable",
+      "liquid",
+      "plastic"
+    ]
   },
   "dmhk-ev-047": {
     "id": "dmhk-ev-047",
@@ -546,7 +583,11 @@
       "pt": "cueca",
       "en": "briefs"
     },
-    "tags": []
+    "tags": [
+      "personal",
+      "male",
+      "wearable"
+    ]
   },
   "dmhk-ev-051": {
     "id": "dmhk-ev-051",
@@ -555,7 +596,10 @@
       "pt": "poncho",
       "en": "poncho"
     },
-    "tags": []
+    "tags": [
+      "fabric",
+      "wearable"
+    ]
   },
   "dmhk-ev-052": {
     "id": "dmhk-ev-052",
@@ -573,7 +617,10 @@
       "pt": "vestido",
       "en": "dress"
     },
-    "tags": []
+    "tags": [
+      "wearable",
+      "female"
+    ]
   },
   "dmhk-ev-054": {
     "id": "dmhk-ev-054",
@@ -582,7 +629,10 @@
       "pt": "casca de ovo",
       "en": "eggshell"
     },
-    "tags": []
+    "tags": [
+      "organic",
+      "cooking"
+    ]
   },
   "dmhk-ev-055": {
     "id": "dmhk-ev-055",
@@ -591,7 +641,9 @@
       "pt": "biscoitos",
       "en": "cookies"
     },
-    "tags": []
+    "tags": [
+      "food"
+    ]
   },
   "dmhk-ev-056": {
     "id": "dmhk-ev-056",
@@ -600,7 +652,9 @@
       "pt": "bicicleta",
       "en": "bicycle"
     },
-    "tags": []
+    "tags": [
+      "transport"
+    ]
   },
   "dmhk-ev-057": {
     "id": "dmhk-ev-057",
@@ -618,7 +672,10 @@
       "pt": "avental",
       "en": "apron"
     },
-    "tags": []
+    "tags": [
+      "cooking",
+      "wearable"
+    ]
   },
   "dmhk-ev-059": {
     "id": "dmhk-ev-059",
@@ -636,7 +693,10 @@
       "pt": "lápis",
       "en": "pencil"
     },
-    "tags": []
+    "tags": [
+      "holdable",
+      "stain"
+    ]
   },
   "dmhk-ev-061": {
     "id": "dmhk-ev-061",
@@ -645,7 +705,10 @@
       "pt": "bolo",
       "en": "cake"
     },
-    "tags": []
+    "tags": [
+      "food",
+      "soft"
+    ]
   },
   "dmhk-ev-062": {
     "id": "dmhk-ev-062",
@@ -654,7 +717,11 @@
       "pt": "perfume",
       "en": "perfume"
     },
-    "tags": []
+    "tags": [
+      "smell",
+      "liquid",
+      "wearable"
+    ]
   },
   "dmhk-ev-063": {
     "id": "dmhk-ev-063",
@@ -663,7 +730,11 @@
       "pt": "fone de ouvido",
       "en": "headset"
     },
-    "tags": []
+    "tags": [
+      "wearable",
+      "electronic",
+      "head"
+    ]
   },
   "dmhk-ev-064": {
     "id": "dmhk-ev-064",
