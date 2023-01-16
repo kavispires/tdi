@@ -32,6 +32,11 @@ const items: MenuProps['items'] = [
     key: 'd5',
     icon: <FileImageOutlined />,
   },
+  {
+    label: 'TD Deck 6',
+    key: 'd6',
+    icon: <FileImageOutlined />,
+  },
 ];
 
 export function ImageCards() {
@@ -64,6 +69,7 @@ export function ImageCards() {
                     key={`img-${id}`}
                     width={150}
                     src={`${process.env.PUBLIC_URL}/images/td/${current}/${id}.jpg`}
+                    placeholder
                   />
                 );
               })}
