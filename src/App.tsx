@@ -1,12 +1,15 @@
-import logo from './logo.svg';
+import { HashRouter, Route, Routes } from 'react-router-dom';
+import { Home } from 'pages/Home';
+import { ImageCards } from 'pages/ImageCardsPage';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
-    </div>
+    <HashRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/image-cards" element={<ImageCards />} />
+      </Routes>
+    </HashRouter>
   );
 }
 
