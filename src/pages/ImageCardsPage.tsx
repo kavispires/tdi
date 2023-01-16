@@ -1,7 +1,8 @@
 import { FileImageOutlined } from '@ant-design/icons';
 import { Image, Menu, MenuProps } from 'antd';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Layout } from 'antd';
+import { useQueryParams } from 'hooks/useQueryParams';
 
 const { Header, Content } = Layout;
 
@@ -34,12 +35,16 @@ const items: MenuProps['items'] = [
 ];
 
 export function ImageCards() {
-  const [current, setCurrent] = useState('d1');
+  const qp = useQueryParams({ deck: 'd1 ' });
+  const [current, setCurrent] = useState('');
 
   const onClick: MenuProps['onClick'] = (e) => {
-    console.log('click ', e);
-    setCurrent(e.key);
+    qp.add('deck', e.key);
   };
+
+  useEffect(() => {
+    setCurrent(qp.queryParams.deck);
+  }, [qp.queryParams]);
 
   return (
     <Layout className="page">
@@ -47,21 +52,23 @@ export function ImageCards() {
         <Menu onClick={onClick} selectedKeys={[current]} mode="horizontal" items={items} theme="dark" />
       </Header>
       <Content className="page__content">
-        <Image.PreviewGroup>
-          {Array(84)
-            .fill(1)
-            .map((e, i) => {
-              const id = e + i < 10 ? `0${e + i}` : `${e + i}`;
+        {Boolean(current) && (
+          <Image.PreviewGroup>
+            {Array(84)
+              .fill(1)
+              .map((e, i) => {
+                const id = e + i < 10 ? `0${e + i}` : `${e + i}`;
 
-              return (
-                <Image
-                  key={`img-${id}`}
-                  width={150}
-                  src={`${process.env.PUBLIC_URL}/images/td/${current}/${id}.jpg`}
-                />
-              );
-            })}
-        </Image.PreviewGroup>
+                return (
+                  <Image
+                    key={`img-${id}`}
+                    width={150}
+                    src={`${process.env.PUBLIC_URL}/images/td/${current}/${id}.jpg`}
+                  />
+                );
+              })}
+          </Image.PreviewGroup>
+        )}
       </Content>
     </Layout>
   );
