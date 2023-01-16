@@ -3,6 +3,7 @@ import { Image, Menu, MenuProps } from 'antd';
 import { useEffect, useState } from 'react';
 import { Layout } from 'antd';
 import { useQueryParams } from 'hooks/useQueryParams';
+import { useCardWidth } from 'hooks/useCardWidth';
 
 const { Header, Content } = Layout;
 
@@ -40,8 +41,9 @@ const items: MenuProps['items'] = [
 ];
 
 export function ImageCards() {
-  const qp = useQueryParams({ deck: 'd1 ' });
+  const qp = useQueryParams({ deck: 'd1' });
   const [current, setCurrent] = useState('');
+  const cardWidth = useCardWidth();
 
   const onClick: MenuProps['onClick'] = (e) => {
     qp.add('deck', e.key);
@@ -52,8 +54,8 @@ export function ImageCards() {
   }, [qp.queryParams]);
 
   return (
-    <Layout className="page">
-      <Header className="page__header">
+    <Layout className="page" id="page">
+      <Header className="page__header" style={{ paddingInline: 0 }}>
         <Menu onClick={onClick} selectedKeys={[current]} mode="horizontal" items={items} theme="dark" />
       </Header>
       <Content className="page__content">
@@ -67,7 +69,7 @@ export function ImageCards() {
                 return (
                   <Image
                     key={`img-${id}`}
-                    width={150}
+                    width={cardWidth}
                     src={`${process.env.PUBLIC_URL}/images/td/${current}/${id}.jpg`}
                     placeholder
                   />
