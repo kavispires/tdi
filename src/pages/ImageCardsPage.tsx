@@ -7,38 +7,13 @@ import { useCardWidth } from 'hooks/useCardWidth';
 
 const { Header, Content } = Layout;
 
-const items: MenuProps['items'] = [
-  {
-    label: 'TD Deck 1',
-    key: 'd1',
+const items: MenuProps['items'] = Array(10)
+  .fill(1)
+  .map((e, i) => ({
+    label: `TD Deck ${e + i}`,
+    key: `d${e + i}`,
     icon: <FileImageOutlined />,
-  },
-  {
-    label: 'TD Deck 2',
-    key: 'd2',
-    icon: <FileImageOutlined />,
-  },
-  {
-    label: 'TD Deck 3',
-    key: 'd3',
-    icon: <FileImageOutlined />,
-  },
-  {
-    label: 'TD Deck 4',
-    key: 'd4',
-    icon: <FileImageOutlined />,
-  },
-  {
-    label: 'TD Deck 5',
-    key: 'd5',
-    icon: <FileImageOutlined />,
-  },
-  {
-    label: 'TD Deck 6',
-    key: 'd6',
-    icon: <FileImageOutlined />,
-  },
-];
+  }));
 
 export function ImageCards() {
   const qp = useQueryParams({ deck: 'd1' });
