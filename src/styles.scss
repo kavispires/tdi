@@ -64,6 +64,11 @@ code {
     position: sticky;
     top: 0px;
     z-index: 50;
+
+    h1 {
+      color: white;
+      margin: 0 2rem;
+    }
   }
 
   &__content {

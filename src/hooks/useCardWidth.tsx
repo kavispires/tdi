@@ -2,11 +2,8 @@ import { useMemo } from 'react';
 
 /**
  * Get a card width in px based on the window size of the user's browser
- * @param quantity how many cards should be fitted in the page screen width
- * @param gap total value of padding and margin on the left and right of the card
  * @param minWidth minimum width of a card
  * @param maxWidth maximum width of a card
- * @param margin the outer margin of the container that should be removed from the width
  * @returns
  */
 export function useCardWidth(minWidth = 120, maxWidth = 600): number {
