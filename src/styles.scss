@@ -80,3 +80,23 @@ code {
   flex: 1;
   height: 100%;
 }
+
+.suspects {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.suspect {
+  position: relative;
+
+  &__name {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.5);
+    color: black;
+    padding: 6px;
+    width: 100%;
+    margin: 6px;
+  }
+}
