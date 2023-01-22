@@ -618,15 +618,15 @@
   "us-78": {
     "id": "us-78",
     "name": {
-      "pt": "Kyle Z",
-      "en": "Caio Z"
+      "pt": "Caio Z",
+      "en": "Kyle Z"
     },
     "gender": "male"
   },
   "us-79": {
     "id": "us-79",
     "name": {
-      "pt": "M A",
+      "pt": "Márcia A",
       "en": "Mo A"
     },
     "gender": "female"
@@ -714,7 +714,7 @@
   "us-90": {
     "id": "us-90",
     "name": {
-      "pt": " L",
+      "pt": "Kelly L",
       "en": "Kathleen L"
     },
     "gender": "female"
@@ -770,8 +770,8 @@
   "us-97": {
     "id": "us-97",
     "name": {
-      "pt": "Paxton S",
-      "en": "Péricles S"
+      "pt": "Péricles S",
+      "en": "Paxton S"
     },
     "gender": "male"
   },
@@ -803,7 +803,7 @@
     "id": "us-101",
     "name": {
       "pt": "Jaci W",
-      "en": "Jaci W"
+      "en": "Josiah W"
     },
     "gender": "male"
   },
@@ -834,7 +834,7 @@
   "us-105": {
     "id": "us-105",
     "name": {
-      "pt": "Marcia A",
+      "pt": "Margarete A",
       "en": "Margaret A"
     },
     "gender": "female"
