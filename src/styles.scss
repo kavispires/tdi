@@ -97,6 +97,19 @@ code {
     color: black;
     padding: 6px;
     width: 100%;
-    margin: 6px;
   }
+}
+
+.card {
+  width: 50%;
+  padding: 6px;
+  border-radius: 6px;
+  margin: 2rem auto;
+  color: black;
+}
+
+.prompt-entry {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
 }
