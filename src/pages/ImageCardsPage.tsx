@@ -42,7 +42,7 @@ export function ImageCards() {
 
               return (
                 <Image
-                  key={`img-${id}`}
+                  key={`img-${current}-${id}`}
                   width={cardWidth}
                   src={`${process.env.PUBLIC_URL}/images/td/${current}/${id}.jpg`}
                   placeholder
