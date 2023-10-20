@@ -15,7 +15,7 @@ export function SuspectCards() {
   const [, copyToClipboard] = useCopyToClipboard();
   const cardWidth = useCardWidth();
   const [messageApi, contextHolder] = message.useMessage();
-  const qp = useQueryParams({ version: 'original' });
+  const qp = useQueryParams({ version: 'ct' });
   const { version = '' } = qp.queryParams;
 
   const { loading, value } = useAsync(async () => {
@@ -40,10 +40,11 @@ export function SuspectCards() {
             onChange={(e) => qp.add('version', e)}
             style={{ minWidth: '10ch' }}
           >
-            <Select.Option value="original">Original</Select.Option>
-            <Select.Option value="ai">AI</Select.Option>
             <Select.Option value="ct">Cartoon</Select.Option>
-            <Select.Option value="alt">AI Alternative</Select.Option>
+            <Select.Option value="ai">AI</Select.Option>
+            <Select.Option value="md">Models</Select.Option>
+            <Select.Option value="wc">Wacky</Select.Option>
+            <Select.Option value="original">Original</Select.Option>
           </Select>
         </h1>{' '}
         {loading} {contextHolder}
@@ -59,9 +60,20 @@ export function SuspectCards() {
                 : `${process.env.PUBLIC_URL}/images/us/${version}/${id}.jpg`;
             const url2 = `https://www.kavispires.com/tdi/images/us/${id}.jpg`;
             return (
-              <Fragment key={`img-${id}`}>
+              <Fragment key={`img-${version}-${id}`}>
                 <div className="suspect" style={{ width: `${cardWidth}px` }}>
-                  <Image width={cardWidth} src={url} placeholder className="suspect__image" />
+                  <Image
+                    width={cardWidth}
+                    src={url}
+                    placeholder={
+                      <Image
+                        preview={false}
+                        src={`${process.env.PUBLIC_URL}/images/back/default.jpg`}
+                        width={cardWidth}
+                      />
+                    }
+                    className="suspect__image"
+                  />
                   {Boolean(data) && (
                     <span className="suspect__name" role="button" onClick={() => info(url2)}>
                       [{id}] {data.gender === 'male' ? <ManOutlined /> : <WomanOutlined />}
