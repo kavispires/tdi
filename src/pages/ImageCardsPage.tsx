@@ -6,7 +6,7 @@ import { useCardWidth } from 'hooks/useCardWidth';
 
 const { Header, Content } = Layout;
 
-const DECK = Array(168).fill(1);
+const DECK = Array(252).fill(1);
 
 const items: MenuProps['items'] = Array(10)
   .fill(1)
