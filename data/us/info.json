@@ -5,7 +5,9 @@
       "pt": "Artur A.",
       "en": "Arthur A."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "black",
+    "age": "21-30"
   },
   "us-02": {
     "id": "us-02",
@@ -13,7 +15,9 @@
       "pt": "Pedro B.",
       "en": "Prince B."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "black",
+    "age": "21-30"
   },
   "us-03": {
     "id": "us-03",
@@ -21,7 +25,9 @@
       "pt": "Conrado C.",
       "en": "Cameron C."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-04": {
     "id": "us-04",
@@ -29,7 +35,9 @@
       "pt": "Paulo D.",
       "en": "Paul D."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "50-60"
   },
   "us-05": {
     "id": "us-05",
@@ -37,7 +45,9 @@
       "pt": "Jéferson E.",
       "en": "Jesse E."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "18-21"
   },
   "us-06": {
     "id": "us-06",
@@ -45,7 +55,9 @@
       "pt": "Frederico F.",
       "en": "Fredrick F."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-07": {
     "id": "us-07",
@@ -53,7 +65,9 @@
       "pt": "Rogério G.",
       "en": "Roger G."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "18-21"
   },
   "us-08": {
     "id": "us-08",
@@ -61,7 +75,9 @@
       "pt": "Raimundo H.",
       "en": "Raymond H."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "black",
+    "age": "50-60"
   },
   "us-09": {
     "id": "us-09",
@@ -69,7 +85,9 @@
       "pt": "Janine I.",
       "en": "Janine I."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "80-90"
   },
   "us-10": {
     "id": "us-10",
@@ -77,7 +95,9 @@
       "pt": "Levi J.",
       "en": "Levi J."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "50-60"
   },
   "us-11": {
     "id": "us-11",
@@ -85,7 +105,9 @@
       "pt": "Nelson K.",
       "en": "Norton K."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "40-50"
   },
   "us-12": {
     "id": "us-12",
@@ -93,7 +115,9 @@
       "pt": "Rosana L.",
       "en": "Rosanne L."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "black",
+    "age": "50-60"
   },
   "us-13": {
     "id": "us-13",
@@ -101,7 +125,9 @@
       "pt": "Marta M.",
       "en": "Megan M."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-14": {
     "id": "us-14",
@@ -109,7 +135,9 @@
       "pt": "Nataniel N.",
       "en": "Nathaniel N."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-15": {
     "id": "us-15",
@@ -117,7 +145,9 @@
       "pt": "Júlio O.",
       "en": "John O."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "60-70"
   },
   "us-16": {
     "id": "us-16",
@@ -125,7 +155,9 @@
       "pt": "Priscila P.",
       "en": "Prisca P."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "indian",
+    "age": "21-30"
   },
   "us-17": {
     "id": "us-17",
@@ -133,7 +165,9 @@
       "pt": "Fagner Q.",
       "en": "Flick Q."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "latino",
+    "age": "21-30"
   },
   "us-18": {
     "id": "us-18",
@@ -141,7 +175,9 @@
       "pt": "Ramon R.",
       "en": "Randall R."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "60-70"
   },
   "us-19": {
     "id": "us-19",
@@ -149,7 +185,9 @@
       "pt": "Vicente S.",
       "en": "Vincent S."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "50-60"
   },
   "us-20": {
     "id": "us-20",
@@ -157,7 +195,9 @@
       "pt": "Tânia T.",
       "en": "Tonya T."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "60-70"
   },
   "us-21": {
     "id": "us-21",
@@ -165,7 +205,9 @@
       "pt": "Úrsula U.",
       "en": "Una U."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "middle-eastern",
+    "age": "21-30"
   },
   "us-22": {
     "id": "us-22",
@@ -173,7 +215,9 @@
       "pt": "Jesilene V.",
       "en": "Jocelyn V."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "black",
+    "age": "21-30"
   },
   "us-23": {
     "id": "us-23",
@@ -181,7 +225,9 @@
       "pt": "Benedito W.",
       "en": "Brian W."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-24": {
     "id": "us-24",
@@ -189,7 +235,9 @@
       "pt": "Basílio X.",
       "en": "Bassam X."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "middle-eastern",
+    "age": "60-70"
   },
   "us-25": {
     "id": "us-25",
@@ -197,7 +245,9 @@
       "pt": "Madalena Y.",
       "en": "Madeline Y."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "60-70"
   },
   "us-26": {
     "id": "us-26",
@@ -205,7 +255,9 @@
       "pt": "Adamastor Z.",
       "en": "Coach Adam Z."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "50-60"
   },
   "us-27": {
     "id": "us-27",
@@ -213,7 +265,9 @@
       "pt": "Antônio A.",
       "en": "Anthony A."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "60-70"
   },
   "us-28": {
     "id": "us-28",
@@ -221,7 +275,9 @@
       "pt": "Amanda B.",
       "en": "Amanda B."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-29": {
     "id": "us-29",
@@ -229,7 +285,9 @@
       "pt": "André C.",
       "en": "Andre C."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "black",
+    "age": "21-30"
   },
   "us-30": {
     "id": "us-30",
@@ -237,7 +295,9 @@
       "pt": "Heitor D.",
       "en": "Hector D."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "40-50"
   },
   "us-31": {
     "id": "us-31",
@@ -245,7 +305,9 @@
       "pt": "Estefânia E.",
       "en": "Stephanie E."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-32": {
     "id": "us-32",
@@ -253,7 +315,9 @@
       "pt": "Valentina F.",
       "en": "Valentina F."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-33": {
     "id": "us-33",
@@ -261,7 +325,9 @@
       "pt": "Geraldo G.",
       "en": "Gary G."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "latino",
+    "age": "40-50"
   },
   "us-34": {
     "id": "us-34",
@@ -269,7 +335,9 @@
       "pt": "Sérgio H.",
       "en": "Sean H."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "black",
+    "age": "30-40"
   },
   "us-35": {
     "id": "us-35",
@@ -277,7 +345,9 @@
       "pt": "Roberto I.",
       "en": "Robert I."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-36": {
     "id": "us-36",
@@ -285,7 +355,9 @@
       "pt": "Jeremias J.",
       "en": "Jeremiah J."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "asian",
+    "age": "21-30"
   },
   "us-37": {
     "id": "us-37",
@@ -293,7 +365,9 @@
       "pt": "Josenildo K.",
       "en": "Snoopy K."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "black",
+    "age": "21-30"
   },
   "us-38": {
     "id": "us-38",
@@ -301,7 +375,9 @@
       "pt": "Lia L.",
       "en": "Lia L."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "asian",
+    "age": "30-40"
   },
   "us-39": {
     "id": "us-39",
@@ -309,7 +385,9 @@
       "pt": "Solange M.",
       "en": "Solange M."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-40": {
     "id": "us-40",
@@ -317,7 +395,9 @@
       "pt": "Patrícia N.",
       "en": "Patricia N."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "black",
+    "age": "30-40"
   },
   "us-41": {
     "id": "us-41",
@@ -325,7 +405,9 @@
       "pt": "Alexandre O.",
       "en": "Alexander O."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "black",
+    "age": "21-30"
   },
   "us-42": {
     "id": "us-42",
@@ -333,7 +415,9 @@
       "pt": "Catarina P.",
       "en": "Katherine P."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "40-50"
   },
   "us-43": {
     "id": "us-43",
@@ -341,7 +425,9 @@
       "pt": "Felicia Q.",
       "en": "Felicia Q."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "latino",
+    "age": "30-40"
   },
   "us-44": {
     "id": "us-44",
@@ -349,7 +435,9 @@
       "pt": "Rômulo R.",
       "en": "Roy R."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "50-60"
   },
   "us-45": {
     "id": "us-45",
@@ -357,7 +445,9 @@
       "pt": "Marlene S.",
       "en": "Marlene S."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "60-70"
   },
   "us-46": {
     "id": "us-46",
@@ -365,7 +455,9 @@
       "pt": "Ricardo T.",
       "en": "Ricardo T."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "latino",
+    "age": "21-30"
   },
   "us-47": {
     "id": "us-47",
@@ -373,7 +465,9 @@
       "pt": "Bartolomeu U.",
       "en": "Barry U."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-48": {
     "id": "us-48",
@@ -381,7 +475,9 @@
       "pt": "Janice V.",
       "en": "Janice V."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "black",
+    "age": "21-30"
   },
   "us-49": {
     "id": "us-49",
@@ -389,7 +485,9 @@
       "pt": "Cristina W.",
       "en": "Kristen W."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "50-60"
   },
   "us-50": {
     "id": "us-50",
@@ -397,7 +495,9 @@
       "pt": "Bernardo X.",
       "en": "Benjamin X."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-51": {
     "id": "us-51",
@@ -405,7 +505,9 @@
       "pt": "Edgar Y.",
       "en": "Edgard Y."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "40-50"
   },
   "us-52": {
     "id": "us-52",
@@ -413,7 +515,9 @@
       "pt": "Ernesto Z.",
       "en": "Ernest Z."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "latino",
+    "age": "30-40"
   },
   "us-53": {
     "id": "us-53",
@@ -421,7 +525,9 @@
       "pt": "Sebastião A.",
       "en": "Sebastian A."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "asian",
+    "age": "30-40"
   },
   "us-54": {
     "id": "us-54",
@@ -429,7 +535,9 @@
       "pt": "Cristiano B.",
       "en": "Christian B."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-55": {
     "id": "us-55",
@@ -437,7 +545,9 @@
       "pt": "Suzana C.",
       "en": "Suzanne C."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-56": {
     "id": "us-56",
@@ -445,7 +555,9 @@
       "pt": "Natália D.",
       "en": "Natalie D."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "40-50"
   },
   "us-57": {
     "id": "us-57",
@@ -453,7 +565,9 @@
       "pt": "Velma E.",
       "en": "Wilma E."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "60-70"
   },
   "us-58": {
     "id": "us-58",
@@ -461,7 +575,9 @@
       "pt": "Francisco F.",
       "en": "Francis F."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "black",
+    "age": "50-60"
   },
   "us-59": {
     "id": "us-59",
@@ -469,7 +585,9 @@
       "pt": "Jorge G.",
       "en": "George G."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "50-60"
   },
   "us-60": {
     "id": "us-60",
@@ -477,7 +595,9 @@
       "pt": "Jair H.",
       "en": "James H."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-61": {
     "id": "us-61",
@@ -485,7 +605,9 @@
       "pt": "Sandoval I.",
       "en": "Samuel I."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "40-50"
   },
   "us-62": {
     "id": "us-62",
@@ -493,7 +615,9 @@
       "pt": "Manuel J.",
       "en": "Mateo J."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "latino",
+    "age": "30-40"
   },
   "us-63": {
     "id": "us-63",
@@ -501,7 +625,9 @@
       "pt": "Luís K.",
       "en": "Louis K."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-64": {
     "id": "us-64",
@@ -509,7 +635,9 @@
       "pt": "Sandra L.",
       "en": "Sandra L."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "40-50"
   },
   "us-65": {
     "id": "us-65",
@@ -517,7 +645,9 @@
       "pt": "Carlos M.",
       "en": "Carl M."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "asian",
+    "age": "21-30"
   },
   "us-66": {
     "id": "us-66",
@@ -525,7 +655,9 @@
       "pt": "Bruno N.",
       "en": "Ben N."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-67": {
     "id": "us-67",
@@ -533,7 +665,9 @@
       "pt": "Walter O.",
       "en": "Walter O."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "50-60"
   },
   "us-68": {
     "id": "us-68",
@@ -541,7 +675,9 @@
       "pt": "Pequi P.",
       "en": "Peter P."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "native-american",
+    "age": "50-60"
   },
   "us-69": {
     "id": "us-69",
@@ -549,7 +685,9 @@
       "pt": "Percival Q.",
       "en": "Percival Q."
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-70": {
     "id": "us-70",
@@ -557,7 +695,9 @@
       "pt": "Dulce R.",
       "en": "Deborah R."
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "80-90"
   },
   "us-71": {
     "id": "us-71",
@@ -565,7 +705,9 @@
       "pt": "Gabriel S",
       "en": "Gabriel S"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "black",
+    "age": "40-50"
   },
   "us-72": {
     "id": "us-72",
@@ -573,7 +715,9 @@
       "pt": "Denílson T",
       "en": "Devon T"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "mixed",
+    "age": "30-40"
   },
   "us-73": {
     "id": "us-73",
@@ -581,7 +725,9 @@
       "pt": "Eva U",
       "en": "Eve U"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-74": {
     "id": "us-74",
@@ -589,7 +735,9 @@
       "pt": "Tarcísio V",
       "en": "Trevor V"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-75": {
     "id": "us-75",
@@ -597,7 +745,9 @@
       "pt": "Ivone W",
       "en": "Ivone W"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "black",
+    "age": "21-30"
   },
   "us-76": {
     "id": "us-76",
@@ -605,7 +755,9 @@
       "pt": "Abigail X",
       "en": "Abigail X"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-77": {
     "id": "us-77",
@@ -613,7 +765,9 @@
       "pt": "Tanaka Y",
       "en": "Tanaka Y"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "asian",
+    "age": "60-70"
   },
   "us-78": {
     "id": "us-78",
@@ -621,7 +775,9 @@
       "pt": "Caio Z",
       "en": "Kyle Z"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-79": {
     "id": "us-79",
@@ -629,7 +785,9 @@
       "pt": "Márcia A",
       "en": "Mo A"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-80": {
     "id": "us-80",
@@ -637,7 +795,9 @@
       "pt": "Ana Dayane B",
       "en": "Anisha B"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "black",
+    "age": "30-40"
   },
   "us-81": {
     "id": "us-81",
@@ -645,7 +805,9 @@
       "pt": "Claudimiro C",
       "en": "Jean Claude C"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "60-70"
   },
   "us-82": {
     "id": "us-82",
@@ -653,7 +815,9 @@
       "pt": "Murilo D",
       "en": "Mortimer D"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "50-60"
   },
   "us-83": {
     "id": "us-83",
@@ -661,7 +825,9 @@
       "pt": "Eru E",
       "en": "Eru E"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "mixed",
+    "age": "40-50"
   },
   "us-84": {
     "id": "us-84",
@@ -669,7 +835,9 @@
       "pt": "Douglas F",
       "en": "Doug F"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-85": {
     "id": "us-85",
@@ -677,7 +845,9 @@
       "pt": "Gabriela G",
       "en": "Gabrielle G"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "black",
+    "age": "18-21"
   },
   "us-86": {
     "id": "us-86",
@@ -685,7 +855,9 @@
       "pt": "Hariko H",
       "en": "Hariko H"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "asian",
+    "age": "21-30"
   },
   "us-87": {
     "id": "us-87",
@@ -693,7 +865,9 @@
       "pt": "Pâmela I",
       "en": "Pamela I"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "18-21"
   },
   "us-88": {
     "id": "us-88",
@@ -701,7 +875,9 @@
       "pt": "Enzo J",
       "en": "Ethan J"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "18-21"
   },
   "us-89": {
     "id": "us-89",
@@ -709,7 +885,9 @@
       "pt": "Camila K",
       "en": "Camilla K"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "black",
+    "age": "30-40"
   },
   "us-90": {
     "id": "us-90",
@@ -717,7 +895,9 @@
       "pt": "Kelly L",
       "en": "Kathleen L"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "40-50"
   },
   "us-91": {
     "id": "us-91",
@@ -725,7 +905,9 @@
       "pt": "Maeda M",
       "en": "Maeda M"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "asian",
+    "age": "50-60"
   },
   "us-92": {
     "id": "us-92",
@@ -733,15 +915,19 @@
       "pt": "Amélia N",
       "en": "Amelia N"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "40-50"
   },
   "us-93": {
     "id": "us-93",
     "name": {
-      "pt": "Otavino O",
+      "pt": "Otaviano O",
       "en": "Owen O"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-94": {
     "id": "us-94",
@@ -749,7 +935,9 @@
       "pt": "Marcos P",
       "en": "Mark P"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-95": {
     "id": "us-95",
@@ -757,7 +945,9 @@
       "pt": "Quércio Q",
       "en": "Quentin Q"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-96": {
     "id": "us-96",
@@ -765,7 +955,9 @@
       "pt": "Saulo R",
       "en": "Stanley R"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "50-60"
   },
   "us-97": {
     "id": "us-97",
@@ -773,7 +965,9 @@
       "pt": "Péricles S",
       "en": "Paxton S"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-98": {
     "id": "us-98",
@@ -781,7 +975,9 @@
       "pt": "Gerson T",
       "en": "Graham T"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "mixed",
+    "age": "40-50"
   },
   "us-99": {
     "id": "us-99",
@@ -789,7 +985,9 @@
       "pt": "Valesca U",
       "en": "Vanessa U"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "black",
+    "age": "21-30"
   },
   "us-100": {
     "id": "us-100",
@@ -797,7 +995,9 @@
       "pt": "Ericlécio V",
       "en": "Easton V"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-101": {
     "id": "us-101",
@@ -805,7 +1005,9 @@
       "pt": "Jaci W",
       "en": "Josiah W"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "asian",
+    "age": "30-40"
   },
   "us-102": {
     "id": "us-102",
@@ -813,7 +1015,9 @@
       "pt": "Giovani X",
       "en": "Giovanni X"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "60-70"
   },
   "us-103": {
     "id": "us-103",
@@ -821,7 +1025,9 @@
       "pt": "Fábio Y",
       "en": "Farley Y"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "40-50"
   },
   "us-104": {
     "id": "us-104",
@@ -829,7 +1035,9 @@
       "pt": "Zacarías Z",
       "en": "Zachary Z"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-105": {
     "id": "us-105",
@@ -837,7 +1045,9 @@
       "pt": "Margarete A",
       "en": "Margaret A"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-106": {
     "id": "us-106",
@@ -845,7 +1055,9 @@
       "pt": "Denise B",
       "en": "Denise B"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "black",
+    "age": "40-50"
   },
   "us-107": {
     "id": "us-107",
@@ -853,7 +1065,9 @@
       "pt": "Clóvis C",
       "en": "Charles C"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "60-70"
   },
   "us-108": {
     "id": "us-108",
@@ -861,7 +1075,9 @@
       "pt": "Cleiton D",
       "en": "Clayton D"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "latino",
+    "age": "21-30"
   },
   "us-109": {
     "id": "us-109",
@@ -869,7 +1085,9 @@
       "pt": "Shirley E",
       "en": "Shirley E"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "21-30"
   },
   "us-110": {
     "id": "us-110",
@@ -877,7 +1095,9 @@
       "pt": "Nassim F",
       "en": "Nassim F"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "middle-eastern",
+    "age": "50-60"
   },
   "us-111": {
     "id": "us-111",
@@ -885,7 +1105,9 @@
       "pt": "Monique G",
       "en": "Monique G"
     },
-    "gender": "female"
+    "gender": "female",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   },
   "us-112": {
     "id": "us-112",
@@ -893,7 +1115,9 @@
       "pt": "Nestor H",
       "en": "Nolan H"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "black",
+    "age": "50-60"
   },
   "us-113": {
     "id": "us-113",
@@ -901,7 +1125,9 @@
       "pt": "Cris I",
       "en": "Chris I"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "asian",
+    "age": "18-21"
   },
   "us-114": {
     "id": "us-114",
@@ -909,6 +1135,8 @@
       "pt": "Isaiah J",
       "en": "Isaiah J"
     },
-    "gender": "male"
+    "gender": "male",
+    "ethnicity": "caucasian",
+    "age": "30-40"
   }
 }
