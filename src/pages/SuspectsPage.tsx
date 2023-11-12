@@ -76,7 +76,8 @@ export function SuspectCards() {
                   />
                   {Boolean(data) && (
                     <span className="suspect__name" role="button" onClick={() => info(url2)}>
-                      [{id}] {data.gender === 'male' ? <ManOutlined /> : <WomanOutlined />}
+                      [{id}] {data.gender === 'male' ? <ManOutlined /> : <WomanOutlined />} {data.age}{' '}
+                      {data.ethnicity}
                       <br />
                       🇧🇷 {data.name.pt}
                       <br />
