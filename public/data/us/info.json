@@ -126,7 +126,7 @@
       "en": "Megan M."
     },
     "gender": "female",
-    "ethnicity": "caucasian",
+    "ethnicity": "mixed",
     "age": "21-30"
   },
   "us-14": {
@@ -362,8 +362,8 @@
   "us-37": {
     "id": "us-37",
     "name": {
-      "pt": "Josenildo K.",
-      "en": "Snoopy K."
+      "pt": "Josenildo A.",
+      "en": "Snoopy A."
     },
     "gender": "male",
     "ethnicity": "black",
