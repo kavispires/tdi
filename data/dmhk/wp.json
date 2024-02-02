@@ -1430,5 +1430,16 @@
     "tags": [""],
     "itemId": "1173",
     "itemExclusive": true
+  },
+  "dmhk-wp-143": {
+    "id": "dmhk-wp-143",
+    "type": "weapon",
+    "name": {
+      "en": "snake",
+      "pt": "cobra venenosa"
+    },
+    "tags": [""],
+    "itemId": "151",
+    "itemExclusive": true
   }
 }
