@@ -1,18 +1,19 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
 import './styles.scss';
-import reportWebVitals from './reportWebVitals';
-import logo from './logo.svg';
+import React from 'react';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
-    </div>
-  </React.StrictMode>,
-  document.getElementById('root')
+import { createRoot } from 'react-dom/client';
+import reportWebVitals from './reportWebVitals';
+
+const logo = require('./logo.svg').default;
+
+const container = document.getElementById('root');
+const root = createRoot(container!);
+root.render(
+  <div className="App">
+    <header className="App-header">
+      <img src={logo} className="App-logo" alt="logo" />
+    </header>
+  </div>
 );
 
 // If you want to start measuring performance in your app, pass a function
