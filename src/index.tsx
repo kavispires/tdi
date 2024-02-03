@@ -1,12 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles.scss';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import logo from './logo.svg';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+      </header>
+    </div>
   </React.StrictMode>,
   document.getElementById('root')
 );
