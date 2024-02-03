@@ -1,23 +1,16 @@
 {
   "files": {
-    "main.css": "/tdi/static/css/main.21823b79.chunk.css",
-    "main.js": "/tdi/static/js/main.95b39172.chunk.js",
-    "main.js.map": "/tdi/static/js/main.95b39172.chunk.js.map",
-    "runtime-main.js": "/tdi/static/js/runtime-main.647fa582.js",
-    "runtime-main.js.map": "/tdi/static/js/runtime-main.647fa582.js.map",
-    "static/js/2.4d5bdd93.chunk.js": "/tdi/static/js/2.4d5bdd93.chunk.js",
-    "static/js/2.4d5bdd93.chunk.js.map": "/tdi/static/js/2.4d5bdd93.chunk.js.map",
-    "static/js/3.acf7287b.chunk.js": "/tdi/static/js/3.acf7287b.chunk.js",
-    "static/js/3.acf7287b.chunk.js.map": "/tdi/static/js/3.acf7287b.chunk.js.map",
+    "main.css": "/tdi/static/css/main.9ffaba45.css",
+    "main.js": "/tdi/static/js/main.7b687153.js",
+    "static/js/808.39cf2617.chunk.js": "/tdi/static/js/808.39cf2617.chunk.js",
     "index.html": "/tdi/index.html",
-    "static/css/main.21823b79.chunk.css.map": "/tdi/static/css/main.21823b79.chunk.css.map",
-    "static/js/2.4d5bdd93.chunk.js.LICENSE.txt": "/tdi/static/js/2.4d5bdd93.chunk.js.LICENSE.txt",
-    "static/media/logo.901d1bdd.svg": "/tdi/static/media/logo.901d1bdd.svg"
+    "static/media/logo.svg": "/tdi/static/media/logo.901d1bddbb10c0c20eecbf3e90ee77b1.svg",
+    "main.9ffaba45.css.map": "/tdi/static/css/main.9ffaba45.css.map",
+    "main.7b687153.js.map": "/tdi/static/js/main.7b687153.js.map",
+    "808.39cf2617.chunk.js.map": "/tdi/static/js/808.39cf2617.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.647fa582.js",
-    "static/js/2.4d5bdd93.chunk.js",
-    "static/css/main.21823b79.chunk.css",
-    "static/js/main.95b39172.chunk.js"
+    "static/css/main.9ffaba45.css",
+    "static/js/main.7b687153.js"
   ]
 }
