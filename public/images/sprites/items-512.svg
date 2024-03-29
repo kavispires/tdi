@@ -974,7 +974,6 @@
     </symbol>
     <symbol id="item-510">
       <title>door</title>
-      <path fill="none" d="M0 1.19h512v512H0z"/>
       <path fill="#eb966d" d="M132.52 39.5h249.53v465H132.52Z"/>
       <path fill="#e8834d" d="M364 39.5h18v465h-18Z"/>
       <path fill="#a95118" d="M382.05 7.52H100.53v497h32v-465h249.52v465h32v-497Z"/>
